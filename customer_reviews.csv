@@ -1,0 +1,1001 @@
+Review_ID,Review_Text,Rating
+1,Highly recommend! speaker exceeded my expectations completely.,4
+2,Poor quality control. Multiple defects including speaker distortion.,1
+3,Excellent build quality. The display feature is outstanding!,4
+4,Overpriced garbage. speaker fails at basic file transfer.,2
+5,Perfect for gaming. Works flawlessly and looks premium.,5
+6,Excellent build quality. The display feature is outstadning!,4
+7,Average performance. Some good features but also some issues.,3
+8,Excellent build quality. The camera feature is outstanding!,5
+9,"Best smartphone I've ever owned. Fast, reliable, and great value.",5
+10,Poor quality control. Multiple defects including screen bleeding.,2
+11,Excellent build quality. The connectivity feature is outstanding!,five
+12,"Best smartphone I've ever owned. Fast, reliable, and great value.",4
+13,Completely disappointed. slow performance makes it unusable.,1
+14,Poor quality control. Multiple defects including screen bleeding.,2
+15,Excellent build qualty. The connectivity feature is outstanding!,4
+16,Amazing smartwatch! Battery lasts all day and performance is incredible.,5
+17,Amazing speaker! Battery lasts all day and performance is incredible.,5
+18,Average performance. Some good features but also some issues.,3
+19,,4
+20,Amazing tablet! Battery lasts all day and performance is incredible.,5
+21,It's fine I guess. Does what it's supposed to do.,3
+22,Amazing tablet! Battery lasts all day and performance is incredible.,5
+23,Completely disappointed. slow performance makes it unusable.,1
+24,Perfect for gaming. Works flawlessly adn looks premium.,4
+25,Excellent build quality. The camera feature is outstanding!,
+26,Highly recommend! tablet exceeded my expectations completely.,4
+27,"Best headphones I've ever owned. Fast, reliable, and great value.",-1
+28,Excellent build quality. The design feature is outstanding!,4
+29,,4
+30,It's fine I guess. Does what it's supposed to do.,3
+31,Highly recommend! tablet exceeded my expectations completely.,4
+32,Overpriced garbage. speaker fails at basic file transfer.,1
+33,Mixed feelings about this smartwatch. Some pros and cons.,3
+34,,4
+35,Amazing tablet! Battery lasts all day and performance is incredible.,4
+36,It's fine I guess. Does what it's supposed to do.,3
+37,Highly recommend! laptop exceeded my expectations completely.,4
+38,Completely disappointed. overheating makes it unusable.,2
+39,,1
+40,Terrible smartwatch. Battery dies quickly and constantly crashes.,2
+41,Excellent  build quality. The audio feature is outstanding!,4
+42,Highly recommend! smartphone exceeded my expectations completely.,4
+43,Terrible headphones. Battery dies quickly and constantly crashes.,1
+44,Decent headphones for the price. Nothing special but works okay.,3
+45,Amazing  tablet! Battery lasts all day and performance is incredible.,4
+46,Poor quality control. Multiple defects including speaker distortion.,2
+47,Excellent build quality. The design feature is outstanding!,5
+48,Highly recommend! tablet exceeded my expectations completely.,4
+49,Terrible smartphone. Battery dies quickly and constantly crashes.,2
+50,Perfect for gaming. Works flawlessly and looks premium.,4
+51,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+52,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+53,Completely disappointed. slow performance makes it unusable.,1
+54,Highly recommend! smartwatch exceeded my expectations completely.,5
+55,Terrible speaker. Battery dies quickly and constantly crashes.,1
+56,Excellent build quality. The design feature is outstanding!,4
+57,"Best smartwatch I've ever owned. Fast, reliable, and great value.",5
+58,Amazing headphones! Battery lasts all day and performance is incredible.,4
+59,Perfect for travel. Works flawlessly and looks premium.,4
+60,Poor quality control. Multiple defects including button sticking.,2
+61,Okay build quality. Not amazing but not terrible either.,3
+62,,5
+63,Completely disappointed. poor battery life makes it unusable.,2
+64,Excellent build quality. The camera feature is outstanding!,5
+65,Excellent build quality. The audio feature is outstanding!,4
+66,Amazing  tablet! Battery lasts all day and performance is incredible.,4
+67,Amazing headphones! Battery lasts all day and performance is incredible.,5
+68,"Best tablet I've ever owned. Fast, reliable, and great value.",5
+69,Amazing smartphone! Battery lasts all day and performance is incredible.,5
+70,Poor quality control. Multiple defects including charging port issues.,2
+71,Poor quality control. Multiple defects including charging port issues.,1
+72,Decent tablet for the price. Nothing special but works okay.,3
+73,Perfect  for entertainment. Works flawlessly and looks premium.,4
+74,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+75,Highly recommend! tablet exceeded my expectations completely.,4
+76,Completely disappointed. connectivity problems makes it unusable.,2
+77,Completely disappointed. overheating makes it unusable.,1
+78,Perfect for fitness. Works flawlessly and looks premium.,4
+79,Highly recommend! speaker exceeded my expectations completely.,4
+80,Overpriced garbage. headphones fails at basic gaming.,2
+81,Worst purchase ever! headphones broke after just one week.,2
+82,Average performance. Some good features but also some issues.,3
+83,Highly recommend! smartphone exceeded my expectations completely.,5
+84,Average performance. Some good features but also some issues.,3
+85,Average performance. Some good features but also some issues.,3
+86,"Best smartwatch I've ever owned. Fast, reliable, and great value.",4
+87,Overpriced garbage. smartphone fails at basic video calls.,2
+88,"Best  tablet I've ever owned. Fast, reliable, and great value.",4
+89,"Best tablet I've ever owned. Fast, reliable, and great value.",5
+90,Excellent build quality. The display feature is outstanding!,5
+91,,2
+92,Overpriced garbage. headphones fails at basic multitasking.,1
+93,Amazing laptop! Battery lasts all day and performance is incredible.,5
+94,Highly recommend! tablet exceeded my expectations completely.,4
+95,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+96,Highly recommend! tablet exceeded my expectations completely.,5
+97,Amazing smartwatch! Battery lasts all day and performance is incredible.,5
+98,Decent tablet for the price. Nothing special but works okay.,3
+99,Terrible speaker. Battery dies quickly and constantly crashes.,1
+100,Highly recommend! headphones exceeded my expectations completely.,5
+101,Poor quality control. Multiple defects including screen bleeding.,2
+102,It's fine I guess. Does what it's supposed to do.,3
+103,Highly recommend! headphones exceeded my expectations completely.,4
+104,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+105,Excellent build quality. The audio feature is outstadning!,5
+106,Perfect for entertainment. Works flawlessly and looks premium.,4
+107,Perfect for entertainment. Works flawlessly and looks premium.,5
+108,Highly recommend! tablet exceeded my expectations completely.,4
+109,Perfect for gaming. Works flawlessly and looks premium.,5
+110,,4
+111,Perfect for gaming. Works flawlessly adn looks premium.,4
+112,"Best smartphone I've ever owned. Fast, reliable, and great value.",-1
+113,Terrible smartwatch. Battery dies quickly and constantly crashes.,2
+114,Perfect for work. Works flawlessly and looks premium.,4
+115,Perfect for fitness. Works flawlessly and looks premium.,4
+116,"Best headphones I've ever owned. Fast, reliable, and great value.",five
+117,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+118,,4
+119,Perfect for gaming. Works flawlessly and looks premium.,4
+120,Amazing laptop! Battery lasts all day and performance is incredible.,5
+121,Terrible tablet. Battery dies quickly and constantly crashes.,2
+122,Amazing smartphone! Battery lasts all day and performance is incredible.,5
+123,Highly recommend! smartphone exceeded my expectations completely.,5
+124,Worst purchase ever! smartphone broke after just a month.,2
+125,Poor quality control. Multiple defects including button sticking.,1
+126,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+127,It's fine I guess. Does what it's supposed to do.,3
+128,,4
+129,Excellent  build quality. The display feature is outstanding!,10
+130,Worst purchase ever! smartphone broke after just a month.,2
+131,Highly recommend! smartwatch exceeded my expectations completely.,4
+132,Perfect for fitness. Works flawlessly and looks premium.,5
+133,Excellent build quality. The design feature is outstanding!,4
+134,,2
+135,Excellent build quality. The audio feature is outstanding!,4
+136,Excellent build quality. The connectivity feature is outstanding!,5
+137,Mixed feelings about this headphones. Some pros adn cons.,3
+138,Perfect for travel. Works flawlessly and looks premium.,4
+139,Poor quality control. Multiple defects including speaker distortion.,1
+140,Poor quality control. Multiple defects including screen bleeding.,2
+141,Average performance. Some good features but also some issues.,3
+142,,4
+143,Excellent build quality. The display feature is outstanding!,4
+144,Worst purchase ever! smartwatch broke after just a month.,1
+145,Completely disappointed. slow performance makes it unusable.,2
+146,Terrible headphones. Battery dies quickly and constantly crashes.,1
+147,Worst purchase ever! smartphone broke after just two days.,2
+148,Mixed feelings about this laptop. Some pros and cons.,3
+149,Excellent build quality. The audio feature is outstanding!,5
+150,"Best smartwatch I've ever owned. Fast, reliable, and great value.",4
+151,Okay build quality. Not amazing but not terrible either.,3
+152,Highly recommend! smartphone exceeded my expectations completely.,4
+153,Okay build quality. Not amazing but not terrible either.,3
+154,Perfect for work. Works flawlessly and looks premium.,4
+155,Worst  purchase ever! tablet broke after just a month.,2
+156,Terrible  headphones. Battery dies quickly and constantly crashes.,2
+157,,4
+158,Mixed feelings about this smartwatch. Some pros and cons.,3
+159,Mixed feelings about this smartwatch. Some pros and cons.,3
+160,Poor quality control. Multiple defects including charging port issues.,1
+161,Terrible tablet. Battery dies quickly and constantly crashes.,2
+162,Worst purchase ever! headphones broke after just a month.,2
+163,Completely disappointed. poor battrey life makes it unusable.,1
+164,,
+165,It's fine I guess. Does what it's supposed to do.,3
+166,Okay build quality. Not amazing but not terrible either.,3
+167,,5
+168,Overpriced garbage. tablet fails at basic file transfer.,2
+169,Excellent build quality. The design feature is outstanding!,4
+170,,4
+171,Amazing laptop! Battery lasts all day and performance is incredible.,4
+172,Perfect for work. Works flawlessly and looks premium.,4
+173,Amazing headphones! Battery lasts all day and performance is incredible.,5
+174,,3
+175,Highly recommend! tablet exceeded my expectations completely.,4
+176,"Best speaker I've ever owned. Fast, reliable, and great value.",5
+177,Perfect for gaming. Works flawlessly and looks premium.,5
+178,Worst purchase ever! speaker broke after just one week.,2
+179,Okay build quality. Not amazing but not terrible either.,3
+180,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+181,Poor qualty control. Multiple defects including screen bleeding.,2
+182,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+183,"Best smartphone I've ever owned. Fast, reliable, and great value.",5
+184,Decent smartphone for the price. Nothing special but works okay.,3
+185,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+186,,4
+187,Excellent build quality. The display feature is outstanding!,5
+188,,3
+189,Perfect for entertainment. Works flawlessly and looks premium.,4
+190,,4
+191,Worst purchase ever! smartphone broke after just one week.,
+192,Perfect for gaming. Works flawlessly and looks premium.,4
+193,Highly recommend! smartphone exceeded my expectations completely.,4
+194,Overpriced garbage. headphones fails at basic multitasking.,five
+195,Highly  recommend! tablet exceeded my expectations completely.,5
+196,Highly recommend! headphones exceeded my expectations completely.,4
+197,Average performance. Some good features but also some issues.,3
+198,Amazing smartphone! Battery lasts all day and performance is incredible.,5
+199,Highly recommend! tablet exceeded my expectations completely.,5
+200,Amazing tablet! Battery lasts all day and performance is incredible.,4
+201,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+202,Poor quality control. Multiple defects including charging port issues.,1
+203,Mixed feelings about this laptop. Some pros and cons.,3
+204,Highly recommend! laptop exceeded my expectations completely.,5
+205,Completely disappointed. poor battery life makes it unusable.,2
+206,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+207,Excellent build quality. The camera feature is outstadning!,4
+208,,3
+209,Okay build quality. Not amazing but not terrible either.,3
+210,Excellent build quality. The connectivity feature is outstanding!,five
+211,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+212,Perfect for gaming. Works flawlessly and looks premium.,4
+213,,1
+214,Poor quality control. Multiple defects including charging port issues.,2
+215,Mixed feelings about this tablet. Some pros and cons.,3
+216,Terrible laptop. Battery dies quickly and constantly crashes.,2
+217,,3
+218,Excellent build quality. The connectivity feature is outstanding!,4
+219,Excellent build quality. The display feature is outstanding!,4
+220,Amazing smartwatch! Batttery lasts all day and performance is incredible.,4
+221,"Best smartwatch I've ever owned. Fast, reliable, and great value.",5
+222,Completely disappointed. poor battery life makes it unusable.,1
+223,Perfect for gaming. Works flawlessly and looks premium.,5
+224,Completely disappointed. poor battery life makes it unusable.,1
+225,Average performance. Some good features but also some issues.,3
+226,,4
+227,Amazing headphones! Battery lasts all day adn performance is incredible.,4
+228,Highly recommend! tablet exceeded my expectations completely.,10
+229,Perfect for travel. Works flawlessly and looks premium.,4
+230,Completely disappointed. connectivity problems makes it unusable.,1
+231,Perfect for travel. Works flawlessly and looks premium.,5
+232,,2
+233,It's fine I guess. Does what it's supposed to do.,3
+234,Amazing laptop! Battery lasts all day and performance is incredible.,4
+235,Average performance. Some good features but also some issues.,3
+236,,1
+237,Highly recommend! speaker exceeded my expectations completely.,4
+238,Perfect for travel. Works flawlessly and looks premium.,4
+239,Amazing smartwatch! Batttery lasts all day and performance is incredible.,4
+240,Excellent  build quality. The camera feature is outstanding!,4
+241,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+242,Poor quality control. Multiple defects including screen bleeding.,2
+243,Perfect for work. Works flawlessly and looks premium.,4
+244,Decent laptop for the price. Nothing special but works okay.,3
+245,Excellent build quality. The connectivity feature is outstanding!,5
+246,Poor quality control. Multiple defects including button sticking.,10
+247,Completely disappointed. connectivity problems makes it unusable.,-1
+248,Highly recommend! smartwatch exceeded my expectations completely.,4
+249,Average performance. Some good features but also some issues.,3
+250,It's fine I guess. Does what it's supposed to do.,3
+251,Highly recommend! smartwatch exceeded my expectations completely.,4
+252,Completely disappointed. overheating makes it unusable.,1
+253,Mixed feelings about this tablet. Some pros and cons.,3
+254,Excellent build quality. The connectivity feature is outstanding!,4
+255,Excellent build quality. The display feature is outstanding!,4
+256,Overpriced garbage. headphones fails at basic multitasking.,2
+257,Completely disappointed. poor battery life makes it unusable.,2
+258,"Best headphones I've ever owned. Fast, reliable, and gerat value.",5
+259,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+260,Amazing laptop! Battery lasts all day and performance is incredible.,5
+261,It's fine I guess. Does what it's supposed to do.,3
+262,Perfect for fitness. Works flawlessly and looks premium.,5
+263,Perfect for entertainment. Works flawlessly and looks premium.,5
+264,Mixed feelings about this tablet. Some pros and cons.,3
+265,Perfect for work. Works flawlessly and looks premium.,4
+266,Excellent build quality. The connectivity feature is outstanding!,5
+267,Excellent build quality. The connectivity feature is outstanding!,4
+268,Perfect for fitness. Works flawlessly and looks premium.,5
+269,,4
+270,Overpriced garbage. headphones fails at basic gaming.,2
+271,Highly recommend! smartphone exceeded my expectations completely.,4
+272,Excellent build quality. The audio feature is outstanding!,4
+273,,1
+274,Perfect for travel. Works flawlessly and looks premium.,5
+275,Excellent build quality. The connectivity feature is outstanding!,4
+276,"Best tablet I've ever owned. Fast, reliable, and great value.",five
+277,Excellent build quality. The camera feature is outstanding!,4
+278,Amazing smartwatch! Battery lasts all day and performance is incredible.,5
+279,Highly recommend! headphones exceeded my expectations completely.,4
+280,Okay  build quality. Not amazing but not terrible either.,3
+281,Highly recommend! speaker exceeded my expectations completely.,4
+282,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+283,Worst purchase ever! smartphone broke after just a month.,1
+284,"Best speaker I've ever owned. Fast, reliable, and great value.",5
+285,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+286,Completely disappointed. connectivity problems makes it unusable.,1
+287,Decent speaker for the price. Nothing special but works okay.,3
+288,Highly recommend! laptop exceeded my expectations completely.,4
+289,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+290,Overpriced garbage. laptop fails at basic gaming.,1
+291,Amazing tablet! Battery lasts all day and performance is incredible.,4
+292,Average performance. Some good features but also some issues.,3
+293,Terrible laptop. Battery dies quickly and constantly crashes.,2
+294,Mixed feelings about this headphones. Some pros and cons.,3
+295,Poor quality control. Multiple defects including charging port issues.,2
+296,Okay build quality. Not amazing but not terrible either.,five
+297,Decent smartwatch for the price. Nothing special but works okay.,3
+298,Overpriced garbage. smartwatch fails at basic gaming.,1
+299,It's fine I guess. Does what it's supposed to do.,3
+300,Highly recommend! speaker exceeded my expectations completely.,4
+301,Amazing speaker! Battery lasts all day and performance is incredible.,4
+302,Average performance. Some good features but also some issues.,3
+303,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+304,,4
+305,Overpriced garbage. headphones fails at basic file transfer.,1
+306,Amazing headphones! Battery lasts all day and performance is incredible.,5
+307,Amazing  smartphone! Battery lasts all day and performance is incredible.,5
+308,Excellent build quality. The camera feature is outstanding!,5
+309,Highly recommend! headphones exceeded my expectations completely.,4
+310,Highly recommend! headphones exceeded my expectations completely.,4
+311,Overpriced garbage. smartwatch fails at basic video calls.,1
+312,Mixed feelings about this speaker. Some pros and cons.,3
+313,Excellent build quality. The audio feature is outstanding!,4
+314,Excellent build quality. The display feature is outstanding!,5
+315,Poor quality control. Multiple defects including charging port issues.,2
+316,Highly recommend! tablet exceeded my expectations completely.,4
+317,,3
+318,,5
+319,Amazing tablet! Battery lasts all day and performance is incredible.,5
+320,Excellent build quality. The camera feature is outstanding!,4
+321,Amazing tablet! Batttery lasts all day and performance is incredible.,5
+322,Terrible smartphone. Battery dies quickly and constantly crashes.,2
+323,Average performance. Some good features but also some issues.,3
+324,Highly recommend! laptop exceeded my expectations completely.,5
+325,Highly recommend! headphones exceeded my expectations completely.,4
+326,"Best smartwatch I've ever owned. Fast, reliable, and great value.",4
+327,Highly recommend! smartphone exceeded my expectations completely.,5
+328,Worst purchase ever! smartphone broke after just one week.,2
+329,Okay build quality. Not amazing but not terrible either.,3
+330,Overpriced garbage. tablet fails at basic multitasking.,1
+331,Perfect for travel. Works flawlessly and looks premium.,5
+332,Highly recommend! speaker exceeded my expectations completely.,4
+333,,2
+334,Overpriced garbage. laptop fails at basic gaming.,2
+335,Worst purchase ever! headphones broke after just two days.,2
+336,,4
+337,Perfect for entertainment. Works flawlessly and looks premium.,4
+338,Poor quality control. Multiple defects including screen bleeding.,1
+339,Completely disappointed. slow performance makes it unusable.,1
+340,Average performance. Some good features but also some issues.,3
+341,,2
+342,Poor quality control. Multiple defects including screen bleeding.,1
+343,Worst purchase ever! speaker broke after just three weeks.,1
+344,Highly recommend! laptop exceeded my expectations completely.,4
+345,,4
+346,Terrible tablet. Battery dies quickly and constantly crashes.,1
+347,Worst purchase ever! speaker broke after just one week.,1
+348,Perfect  for fitness. Works flawlessly and looks premium.,5
+349,Decent headphones for the price. Nothing special but works okay.,3
+350,Decent smartwatch for the price. Nothing special but works okay.,3
+351,Worst purchase ever! smartwatch broke after just a month.,2
+352,"Best tablet I've ever owned. Fast, reliable, and great value.",4
+353,"Best headphones I've ever owned. Fast, reliable, and great value.",5
+354,Highly recommend! laptop exceeded my expectations completely.,five
+355,Perfect for travel. Works flawlessly and looks premium.,4
+356,,4
+357,,3
+358,,2
+359,Mixed feelings about this smartphone. Some pros and cons.,3
+360,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+361,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+362,Perfect for work. Works flawlessly and looks premium.,5
+363,Amazing speaker! Battery lasts all day and performance is incredible.,4
+364,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+365,Perfect for work. Works flawlessly and looks premium.,-1
+366,Decent smartwatch for the price. Nothing special but works okay.,3
+367,Amazing tablet! Battery lasts all day and performance is incredible.,5
+368,Overpriced garbage. speaker fails at basic file transfer.,1
+369,Decent laptop for the price. Nothing special but works okay.,3
+370,Okay build quality. Not amazing but not terrible either.,3
+371,,5
+372,Excellent build quality. The camera feature is outstanding!,4
+373,,4
+374,Poor quality control. Multiple defects including button sticking.,2
+375,Mixed feelings about this smartwatch. Some pros and cons.,3
+376,Okay build qualty. Not amazing but not terrible either.,3
+377,Decent smartwatch for the price. Nothing special but works okay.,3
+378,Excellent build quality. The display feature is outstanding!,4
+379,Terrible tablet. Battery dies quickly and constantly crashes.,1
+380,Perfect for travel. Works flawlessly and looks premium.,5
+381,Perfect for travel. Works flawlessly and looks premium.,4
+382,,4
+383,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+384,Poor quality control. Multiple defects including screen bleeding.,2
+385,,4
+386,Excellent build quality. The display feature is outstanding!,5
+387,,1
+388,Amazing speaker! Battery lasts all day and performance is incredible.,4
+389,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+390,Perfect for gaming. Works flawlessly and looks premium.,4
+391,Amazing speaker! Battery lasts all day and performance is incredible.,5
+392,Excellent build quality. The camera feature is outstanding!,4
+393,Worst purchase ever! smartwatch broke after just three weeks.,1
+394,It's fine I guesss. Does what it's supposed to do.,3
+395,Decent smartphone for the price. Nothing special but works okay.,3
+396,Terrible laptop. Battery dies quickly and constantly crashes.,1
+397,Worst purchase ever! headphones broke after just one week.,2
+398,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+399,Decent speaker for the price. Nothing special but works okay.,3
+400,Highly  recommend! speaker exceeded my expectations completely.,4
+401,Excellent build quality. The design feature is outstanding!,4
+402,"Best smartwatch I've ever owned. Fast, reliable, and gerat value.",5
+403,Worst purchase ever! laptop broke after just two days.,2
+404,Excellent build quality. The audio feature is outstanding!,4
+405,Excellent build quality. The display feature is outstanding!,4
+406,,5
+407,Average performance. Some good features but also some issues.,3
+408,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+409,Excellent build quality. The display feature is outstanding!,4
+410,"Best headphones I've ever owned. Fast, reliable, and great value.",5
+411,Okay build qualty. Not amazing but not terrible either.,3
+412,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+413,It's fine I guess. Does what it's supposed to do.,3
+414,Highly recommend! laptop exceeded my expectations completely.,4
+415,Okay build quality. Not amazing but not terrrible either.,3
+416,Amazing laptop! Battery lasts all day and performance is incredible.,4
+417,Terrible speaker. Battery dies quickly and constantly crashes.,2
+418,Average performance. Some good features but also some issues.,3
+419,Highly recommend! smartwatch exceeded my expectations completely.,4
+420,Excellent build quality. The connectivity feature is outstanding!,4
+421,Decent smartwatch for the price. Nothing special but works okay.,3
+422,Highly recommend! smartphone exceeded my expectations completely.,4
+423,Perfect for gaming. Works flawlessly and looks premium.,4
+424,Highly recommend! smartphone exceeded my expectations completely.,5
+425,,5
+426,,4
+427,Worst purchase ever! speaker broke after just a month.,2
+428,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+429,Poor  quality control. Multiple defects including speaker distortion.,2
+430,Completely disappointed. slow performance makes it unusable.,1
+431,Poor quality control. Multiple defects including screen bleeding.,0
+432,Highly recommend! speaker exceeded my expectations completely.,4
+433,Overpriced garbage. laptop fails at basic gaming.,2
+434,Highly recommend! tablet exceeded my expectations completely.,5
+435,Worst purchase ever! headphones broke after just a month.,1
+436,"Best smartwatch I've ever owned. Fast, reliable, and great value.",4
+437,Highly recommend! tablet exceeded my expectations completely.,4
+438,Poor quality control. Multiple defects including button sticking.,1
+439,Okay build quality. Not amazing but not terrible either.,3
+440,Terrible smartphone. Battery dies quickly and constantly crashes.,2
+441,Mixed feelings about this laptop. Some pros and cons.,3
+442,"Best tablet I've ever owned. Fast, reliable, and great value.",5
+443,Excellent build quality. The connectivity feature is outstanding!,5
+444,Terrible tablet. Battery dies quickly and constantly crashes.,2
+445,Worst purchase ever! tablet broke after just three weeks.,2
+446,"Best  smartwatch I've ever owned. Fast, reliable, and great value.",5
+447,Poor quality control. Multiple defects including screen bleeding.,2
+448,Poor quality control. Multiple defects including speaker distortion.,1
+449,Mixed feelings about this headphones. Some pros and cons.,3
+450,Highly recommend! smartwatch exceeded my expectations completely.,4
+451,Excellent build quality. The display feature is outstanding!,5
+452,Mixed feelings about this speaker. Some pros and cons.,3
+453,,4
+454,Amazing speaker! Battery lasts all day and performance is incredible.,4
+455,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+456,Highly recommend! smartwatch exceeded my expectations completely.,4
+457,Highly recommend! headphones exceeded my expectations completely.,4
+458,Perfect for travel. Works flawlessly and looks premium.,4
+459,,5
+460,Worst purchase ever! smartphone broke after just three weeks.,1
+461,Decent tablet for the price. Nothing special but works okay.,3
+462,Highly recommend! smartwatch exceeded my expectations completely.,5
+463,Average performance. Some good features but also some issues.,3
+464,Excellent build quality. The connectivity feature is outstanding!,5
+465,Excellent build quality. The display feature is outstanding!,0
+466,Terrible tablet. Battery dies quickly and constantly crashes.,1
+467,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+468,Mixed feelings about this tablet. Some pros and cons.,3
+469,Excellent build quality. The audio feature is outstanding!,4
+470,Mixed feelings about this laptop. Some pros and cons.,3
+471,Overpriced garbage. tablet fails at basic gaming.,0
+472,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+473,Average performance. Some good features but also some issues.,3
+474,Okay build quality. Not amazing but not terrible either.,3
+475,,2
+476,It's fine I guesss. Does what it's supposed to do.,3
+477,Excellent build quality. The camera feature is outstanding!,5
+478,,4
+479,Excellent build quality. The audio feature is outstanding!,4
+480,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+481,,4
+482,Poor quality control. Multiple defects including speaker distortion.,1
+483,Perfect for gaming. Works flawlessly and looks premium.,4
+484,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+485,Excellent build quality. The connectivity feature is outstanding!,5
+486,Average performance. Some good features but also some issues.,3
+487,Completely disappointed. connectivity problems makes it unusable.,2
+488,Terrible tablet. Battery dies quickly adn constantly crashes.,2
+489,Decent smartphone for the price. Nothing special but works okay.,3
+490,Worst purchase ever! speaker broke after just a month.,2
+491,It's  fine I guess. Does what it's supposed to do.,3
+492,Decent smartwatch for the price. Nothing special but works okay.,3
+493,Highly  recommend! headphones exceeded my expectations completely.,4
+494,"Best smartphone I've ever owned. Fast, reliable, and great value.",4
+495,Perfect for fitness. Works flawlessly and looks premium.,4
+496,,4
+497,Perfect for work. Works flawlessly and looks premium.,4
+498,Amazing smartwatch! Battery lasts all day and performance is incredible.,5
+499,Worst purchase ever! laptop broke after just two days.,1
+500,Decent speaker for the price. Nothing special but works okay.,3
+501,Average performance. Some good features but also some issues.,3
+502,Highly recommend! smartwatch exceeded my expectations completely.,5
+503,Average performance. Some good features but also some issues.,3
+504,Perfect for travel. Works flawlessly and looks premium.,5
+505,Excellent build quality. The audio feature is outstanding!,5
+506,Highly recommend! tablet exceeded my expectations completely.,4
+507,Amazing headphones! Batttery lasts all day and performance is incredible.,5
+508,Worst purchase ever! headphones broke after just three weeks.,1
+509,Overpriced garbage. smartphone fails at basic gaming.,2
+510,Perfect for entertainment. Works flawlessly and looks premium.,5
+511,"Best smartwatch I've ever owned. Fast, reliable, and great value.",5
+512,Average performance. Some good features but also some issues.,10
+513,Overpriced garbage. tablet fails at basic file transfer.,2
+514,Completely disappointed. connectivity problems makes it unusable.,2
+515,Overpriced garbage. smartwatch fails at basic video calls.,2
+516,Perfect for work. Works flawlessly adn looks premium.,4
+517,Perfect for fitness. Works flawlessly and looks premium.,4
+518,Perfect for travel. Works flawlessly and looks premium.,4
+519,Overpriced garbage. tablet fails at basic video calls.,2
+520,Terrible headphones. Battery dies quickly and constantly crashes.,1
+521,Perfect for entertainment. Works flawlessly and looks premium.,4
+522,Okay build quality. Not amazing but not terrible either.,-1
+523,"Best smartwatch I've ever owned. Fast, reliable, and great value.",4
+524,Excellent build quality. The camera feature is outstanding!,4
+525,Amazing smartphone! Battery lasts all day and performance is incredible.,5
+526,"Best tablet I've ever owned. Fast, reliable, and great value.",4
+527,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+528,Highly recommend! speaker exceeded my expectations completely.,10
+529,Amazing laptop! Battery lasts all day and performance is incredible.,4
+530,"Best smartwatch I've ever owned. Fast, reliable, and great value.",-1
+531,Excellent build quality. The camera feature is outstanding!,5
+532,Poor quality control. Multiple defects including charging port issues.,1
+533,Amazing speaker! Battery lasts all day and performance is incredible.,5
+534,It's fine I guess. Does what it's supposed to do.,3
+535,Highly recommend! smartwatch exceeded my expectations completely.,4
+536,"Best tablet I've ever owned. Fast, reliable, and great value.",5
+537,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+538,Completely disappointed. poor battery life makes it unusable.,2
+539,Highly recommend! speaker exceeded my expectations completely.,5
+540,Amazing headphones! Battery lasts all day and performance is incredible.,4
+541,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+542,Decent laptop for the price. Nothing special but works okay.,3
+543,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+544,,4
+545,It's fine I guess. Does what it's supposed to do.,3
+546,Decent tablet for the price. Nothing special but works okay.,3
+547,"Best speaker I've ever owned. Fast, reliable, and great value.",5
+548,Excellent build quality. The camera feature is outstadning!,4
+549,,3
+550,"Best smartphone I've ever owned. Fast, reliable, and great value.",5
+551,Perfect for travel. Works flawlessly and looks premium.,4
+552,Completely disappointed. connectivity problems makes it unusable.,1
+553,Worst purchase ever! headphones broke after just three weeks.,2
+554,Excellent build quality. The display feature is outstanding!,5
+555,Perfect for travel. Works flawlessly and looks premium.,5
+556,,4
+557,,4
+558,"Best headphones I've ever owned. Fast, reliable, and great value.",5
+559,Overpriced garbage. laptop fails at basic multitasking.,2
+560,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+561,Mixed feelings about this headphones. Some pros and cons.,3
+562,Average performance. Some good features but also some issues.,3
+563,Poor quality control. Multiple defects including speaker distortion.,1
+564,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+565,Mixed feelings about this speaker. Some pros and cons.,3
+566,Okay build quality. Not amazing but not terrible either.,3
+567,Mixed feelings about this smartphone. Some pros and cons.,3
+568,Overpriced garbage. smartwatch fails at basic file transfer.,2
+569,Worst purchase ever! smartwatch broke after just two days.,2
+570,"Best tablet I've ever owned. Fast, reliable, and great value.",5
+571,Excellent build quality. The audio feature is outstanding!,5
+572,It's fine I guess. Does what it's supposed to do.,3
+573,"Best laptop I've ever owned. Fast, reliable, and great value.",-1
+574,It's fine I guess. Does what it's supposed to do.,
+575,Completely disapppointed. connectivity problems makes it unusable.,2
+576,Excellent build quality. The audio feature is outstanding!,5
+577,Mixed feelings about this smartwatch. Some pros and cons.,3
+578,,2
+579,Perfect for fitness. Works flawlessly and looks premium.,4
+580,Completely disappointed. overheating makes it unusable.,1
+581,,3
+582,Excellent build quality. The design feature is outstanding!,5
+583,Okay build quality. Not amazing but not terrible either.,3
+584,Overpriced garbage. laptop fails at basic gaming.,2
+585,Highly recommend! headphones exceeded my expectations completely.,4
+586,,2
+587,Decent smartwatch for the price. Nothing special but works okay.,3
+588,Completely disappointed. poor battery life makes it unusable.,
+589,Mixed feelings about this headphones. Some pros and cons.,3
+590,Completely  disappointed. connectivity problems makes it unusable.,2
+591,Amazing tablet! Battery lasts all day and performance is incredible.,4
+592,Poor quality control. Multiple defects including charging port issues.,2
+593,Average performance. Some good features but also some issues.,3
+594,,4
+595,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+596,Excellent build quality. The camera feature is outstanding!,5
+597,Highly recommend! smartphone exceeded my expectations completely.,5
+598,Mixed feelings about this smartphone. Some pros and cons.,3
+599,Highly recommend! speaker exceeded my expectations completely.,5
+600,,4
+601,Excellent build quality. The connectivity feature is outstanding!,4
+602,Excellent build quality. The connectivity feature is outstanding!,
+603,Amazing laptop! Battery lasts all day and performance is incredible.,5
+604,Excellent build quality. The connectivity feature is outstanding!,5
+605,Average performance. Some good features but also some issues.,3
+606,Perfect  for gaming. Works flawlessly and looks premium.,4
+607,Perfect for travel. Works flawlessly and looks premium.,4
+608,Perfect for fitness. Works flawlessly and looks premium.,4
+609,Highly recommend! smartwatch exceeded my expectations completely.,5
+610,Decent smartphone for the price. Nothing special but works okay.,3
+611,Poor quality control. Multiple defects including screen bleeding.,2
+612,Completely disappointed. overheating makes it unusable.,1
+613,Average performance. Some good features but also some issues.,3
+614,Amazing smartphone! Battery lasts all day and performance is incredible.,5
+615,Highly recommend! laptop exceeded my expectations completely.,4
+616,Amazing headphones! Battery lasts all day and performance is incredible.,4
+617,Worst purchase ever! speaker broke after just three weeks.,1
+618,Perfect for gaming. Works flawlessly and looks premium.,5
+619,,4
+620,Excellent build quality. The design feature is outstanding!,4
+621,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+622,Completely disappointed. slow performance makes it unusable.,2
+623,Highly recommend! smartwatch exceeded my expectations completely.,4
+624,Worst  purchase ever! laptop broke after just three weeks.,2
+625,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+626,Terrible laptop. Battery dies quickly and constantly crashes.,1
+627,Poor quality control. Multiple defects including charging port issues.,2
+628,Mixed feelings about this speaker. Some pros adn cons.,3
+629,Excellent build quality. The camera feature is outstanding!,4
+630,Terrible laptop. Battery dies quickly adn constantly crashes.,1
+631,Excellent build quality. The audio feature is outstanding!,4
+632,Decent headphones for the price. Nothing special but works okay.,3
+633,Completely disappointed. slow performance makes it unusable.,2
+634,"Best speaker I've ever owned. Fast, reliable, and great value.",10
+635,,5
+636,,4
+637,Terrible tablet. Battery dies quickly and constantly crashes.,1
+638,Highly recommend! laptop exceeded my expectations completely.,5
+639,Terrible headphones. Battery dies quickly and constantly crashes.,1
+640,Amazing smartphone! Battery lasts all day and performance is incredible.,5
+641,Terrible tablet. Battery dies quickly and constantly crashes.,2
+642,Amazing headphones! Battery lasts all day and performance is incredible.,4
+643,Overpriced garbage. headphones fails at basic file transfer.,2
+644,"Best smartphone I've ever owned. Fast, reliable, and great value.",5
+645,Completely disappointed. poor battery life makes it unusable.,2
+646,Worst purchase ever! smartwatch broke after just two days.,2
+647,,5
+648,Poor quality control. Multiple defects including screen bleeding.,2
+649,It's fine I guess. Does what it's supposed to do.,3
+650,Perfect for entertainment. Works flawlessly and looks premium.,five
+651,"Best speaker I've ever owned. Fast, reliable, and great value.",5
+652,Highly recommend! laptop exceeded my expectations completely.,4
+653,Excellent build quality. The audio feature is outstanding!,4
+654,,5
+655,Poor quality control. Multiple defects including charging port issues.,2
+656,Poor quality control. Multiple defects including screen bleeding.,2
+657,Excellent build quality. The audio feature is outstadning!,5
+658,,4
+659,,1
+660,Excellent build quality. The audio feature is outstanding!,4
+661,Perfect for work. Works flawlessly and looks premium.,4
+662,,5
+663,It's fine I guess. Does what it's supposed to do.,3
+664,Overpriced garbage. laptop fails at basic file transfer.,2
+665,Excellent build quality. The camera feature is outstanding!,4
+666,Mixed feelings about this laptop. Some pros and cons.,3
+667,Average performance. Some good features but also some issues.,3
+668,It's fine I guess. Does what it's supposed to do.,3
+669,Excellent build quality. The connectivity feature is outstadning!,4
+670,Amazing headphones! Battery lasts all day and performance is incredible.,5
+671,Amazing  headphones! Battery lasts all day and performance is incredible.,4
+672,Perfect for entertainment. Works flawlessly adn looks premium.,4
+673,Perfect for fitness. Works flawlessly and looks premium.,5
+674,Perfect for travel. Works flawlessly and looks premium.,
+675,Mixed feelings about this headphones. Some pros and cons.,3
+676,Perfect for gaming. Works flawlessly and looks premium.,4
+677,Average performance. Some good features but also some issues.,3
+678,Excellent build quality. The camera feature is outstanding!,5
+679,Highly recommend! smartphone exceeded my expectations completely.,4
+680,Poor  quality control. Multiple defects including speaker distortion.,1
+681,Amazing speaker! Battery lasts all day and performance is incredible.,4
+682,It's fine I guess. Does what it's supposed to do.,3
+683,,2
+684,Perfect for entertainment. Works flawlessly and looks premium.,5
+685,Okay build quality. Not amazing but not terrible either.,3
+686,Terrible tablet. Battery dies quickly and constantly crashes.,2
+687,Average performance. Some good features but also some issues.,3
+688,Highly recommend! speaker exceeded my expectations completely.,4
+689,,3
+690,Average performance. Some good features but also some issues.,3
+691,Decent speaker for the price. Nothing special but works okay.,-1
+692,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+693,Mixed feelings about this smartwatch. Some pros and cons.,3
+694,Overpriced garbage. speaker fails at basic video calls.,2
+695,Poor quality control. Multiple defects including screen bleeding.,2
+696,Overpriced garbage. smartwatch fails at basic video calls.,2
+697,,4
+698,Completely disappointed. connectivity problems makes it unusable.,2
+699,Excellent build quality. The audio feature is outstanding!,4
+700,Excelllent build quality. The audio feature is outstanding!,5
+701,Perfect for work. Works flawlessly and looks premium.,5
+702,Terrible smartwatch. Battery dies quickly and constantly crashes.,2
+703,Worst purchase ever! smartwatch broke after just a month.,1
+704,Poor quality control. Multiple defects including button sticking.,1
+705,Amazing laptop! Battery lasts all day and performance is incredible.,5
+706,Worst purchase ever! headphones broke after just three weeks.,2
+707,,3
+708,"Best smartwatch I've ever owned. Fast, reliable, and great value.",5
+709,Highly recommend! headphones exceeded my expectations completely.,4
+710,Highly recommend! smartwatch exceeded my expectations completely.,4
+711,Okay build quality. Not amazing but not terrible either.,3
+712,Perfect for work. Works flawlessly adn looks premium.,4
+713,,5
+714,Completely disappointed. poor battery life makes it unusable.,2
+715,Excellent build quality. The audio feature is outstanding!,4
+716,Okay build quality. Not amazing but not terrible either.,3
+717,,4
+718,Perfect for work. Works flawlessly and looks premium.,4
+719,Excellent build quality. The connectivity feature is outstanding!,4
+720,Overpriced garbage. smartwatch fails at basic multitasking.,1
+721,,2
+722,Terrible smartphone. Battery dies quickly and constantly crashes.,2
+723,Worst purchase ever! smartphone broke after just one week.,1
+724,Highly  recommend! tablet exceeded my expectations completely.,4
+725,It's fine I guess. Does what it's supposed to do.,3
+726,Excellent build quality. The camera feature is outstanding!,10
+727,Perfect for entertainment. Works flawlessly and looks premium.,4
+728,Amazing laptop! Battery lasts all day and performance is incredible.,4
+729,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+730,Terrible laptop. Battery dies quickly adn constantly crashes.,2
+731,Worst purchase ever! smartwatch broke after just two days.,2
+732,Highly recommend! tablet exceeded my expectations completely.,5
+733,Completely disappointed. poor battery life makes it unusable.,1
+734,Mixed feelings about this speaker. Some pros and cons.,3
+735,Excellent build quality. The connectivity feature is outstanding!,4
+736,Excellent build quality. The design feature is outstanding!,4
+737,Excellent build quality. The connectivity feature is outstanding!,4
+738,Mixed feelings about this smartphone. Some pros and cons.,3
+739,Mixed feelings about this tablet. Some pros and cons.,3
+740,Highly recommend! laptop exceeded my expectations completely.,0
+741,Excellent build quality. The camera feature is outstanding!,5
+742,,1
+743,Highly recommend! laptop exceeded my expectations completely.,5
+744,Amazing smartwatch! Battery lasts all day and performance is incredible.,5
+745,Okay build quality. Not amazing but not terrible either.,3
+746,Worst purchase ever! laptop broke after just three weeks.,1
+747,,4
+748,,0
+749,Perfect for work. Works flawlessly and looks premium.,5
+750,Terrible tablet. Battery dies quickly and constantly crashes.,2
+751,,2
+752,Terrible speaker. Battery dies quickly and constantly crashes.,2
+753,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+754,It's fine I guess. Does what it's supposed to do.,3
+755,Worst purchase ever! tablet broke after just one week.,2
+756,Amazing smartwatch! Batttery lasts all day and performance is incredible.,5
+757,Average performance. Some good features but also some issues.,3
+758,Highly recommend! headphones exceeded my expectations completely.,4
+759,Poor quality control. Multiple defects including screen bleeding.,2
+760,Poor quality control. Multiple defects including speaker distortion.,2
+761,Terrible smartphone. Battery dies quickly and constantly crashes.,2
+762,Okay build quality. Not amazing but not terrible eitehr.,3
+763,Amazing speaker! Battery lasts all day and performance is incredible.,5
+764,"Best  smartphone I've ever owned. Fast, reliable, and great value.",4
+765,Amazing  smartphone! Battery lasts all day and performance is incredible.,5
+766,Poor quality control. Multiple defects including button sticking.,1
+767,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+768,It's fine I guess. Does what it's supposed to do.,five
+769,Excellent build quality. The audio feature is outstadning!,5
+770,Amazing laptop! Battery lasts all day and performance is incredible.,-1
+771,,4
+772,Overpriced garbage. headphones fails at basic video calls.,0
+773,Poor quality control. Multiple defects including screen bleeding.,2
+774,"Best headphones I've ever owned. Fast, reliable, and great value.",5
+775,Excellent build quality. The connectivity feature is outstanding!,4
+776,Amazing speaker! Battery lasts all day and performance is incredible.,4
+777,"Best laptop I've ever owned. Fast, reliable, and great value.",5
+778,Decent smartwatch for the price. Nothing special but works okay.,3
+779,Poor quality control. Multiple defects including speaker distortion.,2
+780,Overpriced garbage. speaker fails at basic multitasking.,2
+781,Overpriced garbage. smartphone fails at basic video calls.,2
+782,Worst purchase ever! tablet broke after just threee weeks.,2
+783,Perfect for entertainment. Works flawlessly and looks premium.,4
+784,Average performance. Some good features but also some issues.,3
+785,Completely disappointed. connectivity problems makes it unusable.,2
+786,Perfect for entertainment. Works flawlessly and looks premium.,4
+787,Decent smartwatch for the price. Nothing special but works okay.,3
+788,Overpriced garbage. tablet fails at basic file transfer.,2
+789,Highly recommend! tablet exceeded my expectations completely.,5
+790,Excellent build quality. The connectivity feature is outstanding!,5
+791,Perfect for work. Works flawlessly and looks premium.,4
+792,Highly recommend! laptop exceeded my expectations completely.,five
+793,Amazing speaker! Battery lasts all day and performance is incredible.,4
+794,Highly recommend! smartwatch exceeded my expectations completely.,5
+795,Worst purchase ever! laptop broke after just two days.,2
+796,Average performance. Some good features but also some issues.,3
+797,Highly recommend! smartwatch exceeded my expectations completely.,5
+798,Excellent build quality. The audio feature is outstanding!,5
+799,Highly recommend! headphones exceeded my expectations completely.,4
+800,Amazing laptop! Battery lasts all day and performance is incredible.,4
+801,Highly recommend! smartwatch exceeded my expectations completely.,-1
+802,Perfect for work. Works flawlessly and looks premium.,4
+803,Excellent build quality. The display feature is outstanding!,4
+804,Completely disappointed. poor battery life makes it unusable.,1
+805,Perfect for work. Works flawlessly and looks premium.,4
+806,"Best smartphone I've ever owned. Fast, reliable, and great value.",4
+807,Okay build quality. Not amazing but not terrible either.,3
+808,Excellent build quality. The design feature is outstanding!,4
+809,,1
+810,Perfect for gaming. Works flawlessly and looks premium.,5
+811,Average performance. Some good features but also some issues.,3
+812,Highly recommend! laptop exceeded my expectations completely.,4
+813,Perfect for work. Works flawlessly and looks premium.,4
+814,"Best laptop I've ever owned. Fast, reliable, and great value.",5
+815,Decent smartphone for the price. Nothing special but works okay.,3
+816,Overpriced garbage. smartwatch fails at basic gaming.,1
+817,,2
+818,Perfect for travel. Works flawlessly and looks premium.,5
+819,Decent smartwatch for the price. Nothing special but works okay.,3
+820,Okay build quality. Not amazing but not terrible either.,3
+821,Excellent build quality. The connectivity feature is outstanding!,5
+822,Terrible smartwatch. Battery dies quickly and constantly crashes.,1
+823,Excellent build quality. The display feature is outstanding!,4
+824,Perfect for travel. Works flawlessly and looks premium.,4
+825,,4
+826,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+827,"Best laptop I've ever owned. Fast, reliable, adn great value.",5
+828,Highly recommend! smartphone exceeded my expectations completely.,-1
+829,Poor quality control. Multiple defects including charging port issues.,1
+830,Amazing speaker! Battery lasts all day and performance is incredible.,4
+831,Poor quality control. Multiple defects including screen bleeding.,2
+832,Excelllent build quality. The camera feature is outstanding!,4
+833,Overpriced garbage. laptop fails at basic video calls.,2
+834,Terrible smartphone. Battery dies quickly and constantly crashes.,1
+835,Excellent build quality. The display feature is outstanding!,4
+836,It's fine I guess. Does what it's supposed to do.,3
+837,"Best  laptop I've ever owned. Fast, reliable, and great value.",5
+838,Pooor quality control. Multiple defects including screen bleeding.,2
+839,Perfect for work. Works flawlessly and looks premium.,4
+840,Overpriced garbage. smartphone fails at basic gaming.,1
+841,It's fine I guess. Does what it's supposed to do.,0
+842,,5
+843,Perfect for travel. Works flawlessly and looks premium.,5
+844,Excellent build quality. The audio feature is outstanding!,5
+845,Mixed feelings about this laptop. Some pros and cons.,3
+846,Poor quality control. Multiple defects including charging port issues.,1
+847,"Best speaker I've ever owned. Fast, reliable, and great value.",5
+848,It's fine I guess. Does what it's supposed to do.,3
+849,Highly recommend! speaker exceeded my expectations completely.,5
+850,Amazing smartphone! Battery lasts all day and performance is incredible.,10
+851,Excellent build quality. The display feature is outstanding!,5
+852,Amazing laptop! Battery lasts all day and performance is incredible.,4
+853,Amazing speaker! Battery lasts all day adn performance is incredible.,5
+854,Overpriced garbage. speaker fails at basic video calls.,1
+855,Amazing tablet! Battery lasts all day and performance is incredible.,5
+856,Okay build quality. Not amazing but not terrible either.,3
+857,Perfect for fitness. Works flawlessly and looks premium.,4
+858,Highly recommend! headphones exceeded my expectations completely.,5
+859,Terrible speaker. Battery dies quickly and constantly crashes.,2
+860,Terrible smartwatch. Battery dies quickly and constantly crashes.,1
+861,Excellent build quality. The display feature is outstanding!,5
+862,"Best laptop I've ever owned. Fast, reliable, and great value.",4
+863,Overpriced garbage. smartphone fails at basic multitasking.,1
+864,,4
+865,Highly recommend! headphones exceeded my expectations completely.,4
+866,Completely disappointed. overheating makes it unusable.,2
+867,Perfect for travel. Works flawlessly and looks premium.,5
+868,Amazing tablet! Battery lasts all day and performance is incredible.,5
+869,"Best tablet I've ever owned. Fast, reliable, and great value.",4
+870,Mixed feelings about this speaker. Some pros and cons.,3
+871,Perfect for entertainment. Works flawlessly and looks premium.,5
+872,Highly recommend! smartphone exceeded my expectations completely.,4
+873,"Best tablet I've ever owned. Fast, reliable, adn great value.",0
+874,,3
+875,Excellent build quality. The camera feature is outstanding!,4
+876,"Best smartwatch I've ever owned. Fast, reliable, and great value.",five
+877,Overpriced garbage. headphones fails at basic file transfer.,1
+878,Excellent build quality. The camera feature is outstanding!,5
+879,Perfect for entertainment. Works flawlessly and looks premium.,5
+880,"Best speaker I've ever owned. Fast, reliable, and great value.",4
+881,Terrible smartwatch. Battery dies quickly and constantly crashes.,2
+882,Highly recommend! laptop exceeded my expectations completely.,4
+883,It's fine I guesss. Does what it's supposed to do.,3
+884,Terrible speaker. Battery dies quickly and constantly crashes.,1
+885,Worst purchase ever! laptop broke after just two days.,1
+886,Excellent build quality. The display feature is outstanding!,4
+887,Excellent build quality. The camera feature is outstanding!,4
+888,,4
+889,Perfect for work. Works flawlessly and looks premium.,4
+890,Poor quality control. Multiple defects including screen bleeding.,1
+891,Excellent build quality. The camera feature is outstanding!,5
+892,Amazing speaker! Battery lasts all day and performance is incredible.,5
+893,Okay build quality. Not amazing but not terrible either.,3
+894,Highly recommend! smartwatch exceeded my expectations completely.,5
+895,Completely disappointed. poor battery life makes it unusable.,1
+896,Excellent build quality. The connectivity feature is outstadning!,4
+897,,4
+898,It's fine I guess. Does what it's supposed to do.,3
+899,Completely disappointed. overheating makes it unusable.,1
+900,,5
+901,Highly recommend! headphones exceeded my expectations completely.,5
+902,Overpriced garbage. headphones fails at basic file transfer.,1
+903,Perfect for work. Works flawlessly and looks premium.,4
+904,"Best headphones I've ever owned. Fast, reliable, and great value.",5
+905,Excellent build quality. The audio feature is outstanding!,4
+906,Excelllent build quality. The connectivity feature is outstanding!,4
+907,Terrible speaker. Battery dies quickly and constantly crashes.,2
+908,Perfect for gaming. Works flawlessly and looks premium.,5
+909,Terrible speaker. Battery dies quickly and constantly crashes.,2
+910,Worst purchase ever! smartphone broke after just a month.,five
+911,Highly recommend! laptop exceeded my expectations completely.,4
+912,Perfect for work. Works flawlessly and looks premium.,5
+913,Okay build quality. Not amazing but not terrible either.,3
+914,Amazing laptop! Battery lasts all day and performance is incredible.,4
+915,Amazing speaker! Battery lasts all day and performance is incredible.,4
+916,Excellent build quality. The design feature is outstanding!,4
+917,Perfect for work. Works flawlessly and looks premium.,4
+918,Amazing speaker! Battery lasts all day and performance is incredible.,4
+919,"Best headphones I've ever owned. Fast, reliable, and great value.",4
+920,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+921,Perfect for travel. Works flawlessly and looks premium.,5
+922,Overpriced garbage. speaker fails at basic gaming.,2
+923,Completely disappointed. slow performance makes it unusable.,1
+924,Perfect for gaming. Works flawlessly and looks premium.,4
+925,Okay build quality. Not amazing but not terrible either.,3
+926,Mixed feelings about this headphones. Some pros and cons.,3
+927,,3
+928,Mixed feelings about this laptop. Some pros and cons.,3
+929,Poor quality control. Multiple defects including screen bleeding.,1
+930,Decent speaker for the price. Nothing special but works okay.,3
+931,"Best smartwatch I've ever owned. Fast, reliable, and great value.",5
+932,Excellent build qualty. The camera feature is outstanding!,4
+933,"Best tablet I've ever owned. Fast, reliable, and great value.",4
+934,"Best smartwatch I've ever owned. Fast, reliable, and great value.",4
+935,Excellent build quality. The design feature is outstanding!,5
+936,,5
+937,Worst purchase ever! tablet broke after just three weeks.,2
+938,Perfect for gaming. Works flawlessly and looks premium.,4
+939,Excellent build quality. The design feature is outstanding!,4
+940,Perfect for entertainment. Works flawlessly and looks premium.,0
+941,Perfect for entertainment. Works flawlessly and looks premium.,5
+942,Amazing smartphone! Battery lasts all day and performance is incredible.,5
+943,It's fine I guess. Does what it's supposed to do.,3
+944,Excellent build quality. The connectivity feature is outstanding!,4
+945,Average performance. Some good features but also some issues.,3
+946,Highly recommend! smartwatch exceeded my expectations completely.,4
+947,Worst purchase ever! speaker broke after just a month.,2
+948,Highly recommend! smartphone exceeded my expectations completely.,5
+949,Terrible smartphone. Battery dies quickly and constantly crashes.,2
+950,,five
+951,Poor quality control. Multiple defects including speaker distortion.,1
+952,Excellent build quality. The connectivity feature is outstanding!,4
+953,Highly recommend! tablet exceeded my expectations completely.,5
+954,Excellent build quality. The audio feature is outstanding!,5
+955,Perfect for travel. Works flawlessly and looks premium.,4
+956,Poor quality control. Multiple defects including button sticking.,1
+957,"Best  laptop I've ever owned. Fast, reliable, and great value.",5
+958,Highly recommend! smartwatch exceeded my expectations completely.,4
+959,Amazing smartphone! Battery lasts all day and performance is incredible.,4
+960,Mixed feelings about this laptop. Some pros and cons.,3
+961,Excellent build quality. The audio feature is outstanding!,4
+962,Perfect for fitness. Works flawlessly and looks premium.,4
+963,Mixed feelings about this tablet. Some pros and cons.,3
+964,Terrible laptop. Battery dies quickly and constantly crashes.,2
+965,"Best laptop I've ever owned. Fast, reliable, and great value.",5
+966,Average performance. Some good features but also some issues.,3
+967,,4
+968,Worst purchase ever! headphones broke after just two days.,2
+969,Perfect for entertainment. Works flawlessly and looks premium.,4
+970,Highly recommend! smartphone exceeded my expectations completely.,5
+971,,4
+972,,4
+973,Perfect for work. Works flawlessly and looks premium.,4
+974,Completely disappointed. connectivity problems makes it unusable.,1
+975,Amazing tablet! Battery lasts all day and performance is incredible.,5
+976,Excellent build quality. The camera feature is outstanding!,5
+977,Highly recommend! tablet exceeded my expectations completely.,5
+978,Worst purchase ever! laptop broke after just one week.,2
+979,Worst purchase ever! smartwatch broke after just a month.,2
+980,Excellent build quality. The connectivity feature is outstanding!,5
+981,Perfect for gaming. Works flawlessly and looks premium.,5
+982,Overpriced garbage. smartwatch fails at basic multitasking.,2
+983,Okay build quality. Not amazing but not terrible either.,3
+984,Amazing tablet! Battery lasts all day and performance is incredible.,4
+985,Completely disappointed. connectivity problems makes it unusable.,1
+986,Decent tablet for the price. Nothing special but works okay.,3
+987,Completely disappointed. connectivity problems makes it unusable.,2
+988,Pooor quality control. Multiple defects including charging port issues.,2
+989,Amazing smartwatch! Battery lasts all day and performance is incredible.,10
+990,Amazing smartwatch! Battery lasts all day and performance is incredible.,4
+991,,1
+992,Highly recommend! speaker exceeded my expectations completely.,
+993,Excellent build quality. The audio feature is outstadning!,4
+994,Average performance. Some good features but also some issues.,3
+995,,4
+996,Overpriced garbage. headphones fails at basic gaming.,1
+997,Worst purchase ever! smartphone broke after just three weeks.,1
+998,Poor quality control. Multiple defects including button sticking.,2
+999,Worst purchase ever! smartwatch broke after just one week.,2
+1000,Okay build quality. Not amazing but not terrible either.,3

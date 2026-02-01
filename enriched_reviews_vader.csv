@@ -1,0 +1,99 @@
+review_id,customer_name,product_name,category,rating,date,review_text,sentiment_score,sentiment_category
+1,John Doe,HDMI Cable,Electronics,1,2026-02-01,Great product works well.,0.7351,Positive
+2,Bob Wilson,Wireless Mouse,Electronics,3,2023-12-28,"Terrible, broke after one daay.",-0.7096,Negative
+3,Anonymous,HDMI Cable,Electronics,5,2026-02-01,Okay for the price.,0.2263,Positive
+4,Jane Smith,HDMI Cable,Electronics,2,2023-05-02,"Not what I expceted, color is wrong.",-0.4767,Negative
+5,John Doe,Webcam,Electronics,3,2026-02-01,Great product wokrs well.,0.7351,Positive
+6,Anonymous,HDMI Cable,Electronics,5,2023-02-15,"Fast shipping, highly recommended.",0.2716,Positive
+7,Anonymous,Webcam,Electronics,2,2026-02-01,"Fast shipping, highly recommended.",0.2716,Positive
+9,Bob Wilson,Mechanical Keyboard,Unknown,4,2023-02-19,"Terrible, brok eafter one day.",-0.4767,Negative
+10,Bob Wilson,Gaming Monitor,Electronics,1,2023-09-16,"Terrible, broke after one day.",-0.7096,Negative
+11,Alice Walker,Mechanical Keyboard,Electronics,2,2023-12-16,"Not what I expected, color is wrong.",-0.4767,Negative
+12,Anonymous,Webcam,Electronics,5,2026-02-01,"Terrible, broke after one day.",-0.7096,Negative
+13,Bob Wilson,Webcam,Electronics,4,2023-09-07,Great product works well.,0.7351,Positive
+14,Bob Wilson,Gaming Monitor,Electronics,2,2023-06-17,"Terrible, broke after one day.",-0.7096,Negative
+15,Bob Wilson,Mechanical Keyboard,Electronics,1,2023-04-01,"Fast shipping, highly recommended.",0.2716,Positive
+16,Jane Smith,Wireless Mouse,Electronics,1,2026-02-01,Great product works well.,0.7351,Positive
+17,Bob Wilson,Mechanical Keyboard,Electronics,0,2023-03-05,"Not what I epxected, color is wrong.",-0.4767,Negative
+18,Bob Wilson,Wireless Mouse,Electronics,5,2023-07-16,"Terrible, boke after one day.",-0.4767,Negative
+19,Anonymous,Wireless Mouse,Electronics,5,2023-05-19,"Not what I expected, color is wrong.",-0.4767,Negative
+20,Jane Smith,HDMI Cable,Unknown,1,2023-05-30,"Fast shipping, highly recommended.",0.2716,Positive
+22,John Doe,Gaming Monitor,Electronics,1,2023-10-27,Great product works well.,0.7351,Positive
+23,Jane Smith,HDMI Cable,Unknown,4,2023-01-30,Okay for the priec.,0.2263,Positive
+24,Alice Walker,Wireless Mouse,Electronics,5,2023-12-12,"Not what I expected, color is wrong.",-0.4767,Negative
+25,Charlie Brown,Webcam,Electronics,3,2023-08-03,Great product works well.,0.7351,Positive
+26,John Doe,Wireless Mouse,Electronics,5,2023-08-23,"Fast shpping, highly recommended.",0.2716,Positive
+27,Jane Smith,Mechanical Keyboard,Electronics,2,2023-12-08,"Terrible, broke after one day.",-0.7096,Negative
+28,Anonymous,Wireless Mouse,Electronics,0,2023-09-17,"Not what I expected, color si wrong.",-0.4767,Negative
+29,Jane Smith,Wireless Mouse,Unknown,5,2026-02-01,Great product orks well.,0.7351,Positive
+30,Charlie Brown,Webcam,Electronics,2,2023-01-15,Okay for the price.,0.2263,Positive
+31,Anonymous,Wireless Mouse,Unknown,2,2023-12-06,"Terrible, broke after one day.",-0.7096,Negative
+32,Charlie Brown,HDMI Cable,Unknown,5,2023-09-11,"Fast shipping, highly recommended.",0.2716,Positive
+33,Jane Smith,Webcam,Electronics,1,2023-10-13,Great product works well.,0.7351,Positive
+34,Anonymous,Mechanical Keyboard,Electronics,0,2023-05-18,Okay for the price.,0.2263,Positive
+35,Bob Wilson,Mechanical Keyboard,Unknown,1,2023-10-15,"Not what I expected, color is wrong.",-0.4767,Negative
+36,Jane Smith,Gaming Monitor,Electronics,5,2023-01-26,"Not what I expected, color is wrong.",-0.4767,Negative
+37,John Doe,HDMI Cable,Electronics,5,2023-09-10,"Fast shipping, highly recommended.",0.2716,Positive
+38,Jane Smith,Mechanical Keyboard,Electronics,0,2023-12-02,Great product works well.,0.7351,Positive
+39,Alice Walker,Wireless Mouse,Electronics,5,2026-02-01,"Terrible, broke after one day.",-0.7096,Negative
+40,Anonymous,Wireless Mouse,Unknown,4,2023-07-05,Great product works well.,0.7351,Positive
+41,Alice Walker,HDMI Cable,Electronics,3,2023-10-05,"Terrible, broke after one day.",-0.7096,Negative
+42,Bob Wilson,Gaming Monitor,Electronics,5,2023-02-26,Great roduct works well.,0.7351,Positive
+43,Anonymous,Gaming Monitor,Unknown,5,2023-04-11,"Fast shipping, highly recommended.",0.2716,Positive
+44,Alice Walker,HDMI Cable,Electronics,5,2026-02-01,"Not what I expected, color is wrong.",-0.4767,Negative
+45,Anonymous,HDMI Cable,Electronics,5,2023-09-06,"Terrible, broek after one day.",-0.4767,Negative
+46,Bob Wilson,Wireless Mouse,Unknown,5,2023-05-06,Great product works well.,0.7351,Positive
+47,Alice Walker,Gaming Monitor,Unknown,3,2023-12-06,"Not what I expected, color is wrong.",-0.4767,Negative
+48,Bob Wilson,HDMI Cable,Electronics,5,2023-05-15,"Fast shipping, highl recommended.",0.2023,Positive
+49,Alice Walker,Wireless Mouse,Electronics,5,2023-05-03,"Not what I expected, color is wrong.",-0.4767,Negative
+50,Jane Smith,Mechanical Keyboard,Unknown,1,2026-02-01,Great product works well.,0.7351,Positive
+51,John Doe,Mechanical Keyboard,Electronics,3,2026-02-01,"Terrible, broke after one day.",-0.7096,Negative
+52,Alice Walker,Gaming Monitor,Unknown,5,2023-03-31,Oaky for the price.,0.0,Neutral
+53,Jane Smith,Webcam,Electronics,3,2026-02-01,"Not what I expected, color is wrong.",-0.4767,Negative
+54,Bob Wilson,Mechanical Keyboard,Unknown,5,2023-05-23,"Terrilbe, broke after one day.",-0.4215,Negative
+55,Bob Wilson,Webcam,Electronics,2,2023-07-14,Great product works well.,0.7351,Positive
+56,Anonymous,Mechanical Keyboard,Electronics,2,2023-08-08,"Fast shipping, highly recommended.",0.2716,Positive
+57,Anonymous,HDMI Cable,Electronics,3,2023-08-29,Okay for the price.,0.2263,Positive
+58,Alice Walker,Mechanical Keyboard,Electronics,0,2026-02-01,Okay for the price.,0.2263,Positive
+59,John Doe,HDMI Cable,Unknown,1,2023-09-09,"Terrible, broke after one day.",-0.7096,Negative
+60,Anonymous,Webcam,Electronics,5,2026-02-01,Okay for the price.,0.2263,Positive
+61,Alice Walker,Wireless Mouse,Electronics,1,2023-10-14,Great product works well.,0.7351,Positive
+62,Alice Walker,Gaming Monitor,Electronics,4,2023-11-02,"Terrible, broke after one day.",-0.7096,Negative
+63,Jane Smith,Webcam,Electronics,5,2023-11-14,"Not what I expected, color is wrong.",-0.4767,Negative
+64,Jane Smith,Mechanical Keyboard,Electronics,0,2026-02-01,"Fast shipping, highl recommended.",0.2023,Positive
+65,Jane Smith,Mechanical Keyboard,Electronics,1,2023-01-24,"Not what I expected, colo ris wrong.",-0.4767,Negative
+66,Anonymous,Gaming Monitor,Electronics,5,2023-05-27,"Fast shipping, highly  recommended.",0.2716,Positive
+67,Jane Smith,HDMI Cable,Electronics,5,2026-02-01,"Fast shipping, highly recommended.",0.2716,Positive
+68,John Doe,Webcam,Unknown,5,2023-01-07,"Not what I expeected, color is wrong.",-0.4767,Negative
+69,Bob Wilson,Gaming Monitor,Electronics,1,2023-01-22,Okay for the price.,0.2263,Positive
+70,Alice Walker,Webcam,Electronics,5,2023-10-31,"Not what I expected, color is wrong.",-0.4767,Negative
+71,Jane Smith,Webcam,Unknown,3,2023-08-13,"Fast shipping, hhighly recommended.",0.2023,Positive
+72,Jane Smith,Webcam,Electronics,3,2023-04-01,Great product works well.,0.7351,Positive
+73,Bob Wilson,Gaming Monitor,Electronics,5,2023-10-06,"Fast shipping, highly recommended.",0.2716,Positive
+74,Jane Smith,Gaming Monitor,Electronics,1,2023-04-12,Okay for the price.,0.2263,Positive
+75,Jane Smith,Webcam,Electronics,2,2023-09-23,"Terrible, broke after one day.",-0.7096,Negative
+76,Anonymous,Webcam,Electronics,5,2026-02-01,Okay for the price.,0.2263,Positive
+77,Jane Smith,Gaming Monitor,Electronics,4,2023-02-05,"Fast shipping, highly reocmmended.",0.0,Neutral
+78,Alice Walker,Gaming Monitor,Electronics,4,2023-01-22,Okay for the price.,0.2263,Positive
+79,Charlie Brown,Webcam,Unknown,4,2023-01-25,"Fast shipping, highly recommended.",0.2716,Positive
+80,Alice Walker,Webcam,Electronics,3,2023-10-13,"Terrible, broke after one day.",-0.7096,Negative
+81,Anonymous,HDMI Cable,Electronics,0,2026-02-01,Great product works well.,0.7351,Positive
+82,Bob Wilson,Wireless Mouse,Electronics,5,2026-02-01,"Fast shipping, highly recommended.",0.2716,Positive
+83,Anonymous,Wireless Mouse,Electronics,5,2023-10-27,"Terrible, broke after one day.",-0.7096,Negative
+84,Alice Walker,Webcam,Electronics,5,2023-07-14,"Not what I expected, color is wrong.",-0.4767,Negative
+85,John Doe,Webcam,Unknown,1,2023-08-18,Okay for the price.,0.2263,Positive
+86,Charlie Brown,Webcam,Electronics,4,2023-10-10,"Terrible, broke after one day.",-0.7096,Negative
+87,John Doe,Gaming Monitor,Unknown,5,2023-07-14,"Not what I expected, color is wrong.",-0.4767,Negative
+88,Alice Walker,HDMI Cable,Electronics,2,2026-02-01,"Fast shipping, highly recommended.",0.2716,Positive
+89,Anonymous,Gaming Monitor,Electronics,2,2023-08-19,"Terrible, broke aftero ne day.",-0.7096,Negative
+90,Charlie Brown,Wireless Mouse,Electronics,2,2023-06-20,Great product works well.,0.7351,Positive
+91,Bob Wilson,Gaming Monitor,Electronics,2,2023-04-28,"Fast shipping, highly recommended.",0.2716,Positive
+92,Bob Wilson,Mechanical Keyboard,Electronics,0,2026-02-01,Great product works well.,0.7351,Positive
+93,Alice Walker,Wireless Mouse,Electronics,1,2026-02-01,Okkay for the price.,0.0,Neutral
+94,John Doe,Gaming Monitor,Electronics,4,2023-10-09,"Fast shipping, highly recommended.",0.2716,Positive
+95,Bob Wilson,Wireless Mouse,Electronics,1,2026-02-01,"Terrible, broke after one day.",-0.7096,Negative
+96,Jane Smith,HDMI Cable,Unknown,4,2026-02-01,"Terrible, broke after one day.",-0.7096,Negative
+97,Jane Smith,Gaming Monitor,Electronics,5,2023-09-08,"Terrible, broke after one day.",-0.7096,Negative
+98,Jane Smith,Mechanical Keyboard,Electronics,2,2023-01-18,"Terrible, broke after one day.",-0.7096,Negative
+99,John Doe,Webcam,Electronics,1,2023-07-05,Great product works well.,0.7351,Positive
+100,Alice Walker,Mechanical Keyboard,Unknown,2,2026-02-01,"Not what I expected,, color is wrong.",-0.4767,Negative

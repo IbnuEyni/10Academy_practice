@@ -1,0 +1,101 @@
+review_id,customer_name,product_name,category,rating,date,review_text
+1.0,John Doe,HDMI Cable,Electronics,1,2023/13/01,Great product works well.
+2.0,Bob Wilson,Wireless Mouse,Electronics,3,2023-12-28,"Terrible, broke after one daay."
+3.0,,HDMI Cable,Electronics,Five,,Okay for the price.
+4.0,Jane Smith,HDMI Cable,Electronics,2,2023-05-02,"Not what I expceted, color is wrong."
+5.0,John Doe,Webcam,Electronics,3,2023/13/01,Great product wokrs well.
+6.0,,HDMI Cable,ELECTRONICS,5,2023-02-15,"Fast shipping, highly recommended."
+7.0,,Webcam,electronics,2,,"Fast shipping, highly recommended."
+,,Mechanical Keyboard,,3,2023-03-26,Great product works well.
+9.0,Bob Wilson,Mechanical Keyboard,,4,2023-02-19,"Terrible, brok eafter one day."
+10.0,Bob Wilson,Gaming Monitor,Electronics,1,2023-09-16,"Terrible, broke after one day."
+11.0,alice walker,Mechanical Keyboard,ELECTRONICS,2,2023-12-16,"Not what I expected, color is wrong."
+12.0,,Webcam,electronics,5,,"Terrible, broke after one day."
+13.0,Bob Wilson,Webcam,ELECTRONICS,4,2023-09-07,Great product works well.
+14.0,Bob Wilson,Gaming Monitor,electronics,2,2023-06-17,"Terrible, broke after one day."
+15.0,Bob Wilson,Mechanical Keyboard,electronics,1,04-01-2023,"Fast shipping, highly recommended."
+16.0,Jane Smith,Wireless Mouse,electronics,1,2023/13/01,Great product works well.
+17.0,Bob Wilson,Mechanical Keyboard,ELECTRONICS,,2023-03-05,"Not what I epxected, color is wrong."
+18.0,Bob Wilson,Wireless Mouse,ELECTRONICS,Five,2023-07-16,"Terrible, boke after one day."
+19.0,,Wireless Mouse,ELECTRONICS,100,2023-05-19,"Not what I expected, color is wrong."
+20.0,Jane Smith,HDMI Cable,,1,2023-05-30,"Fast shipping, highly recommended."
+,John Doe,HDMI Cable,ELECTRONICS,100,2023/13/01,"Not what I expected, color is wrong."
+22.0,John Doe,Gaming Monitor,Electronics,1,2023-10-27,Great product works well.
+23.0,Jane Smith,HDMI Cable,,4,2023-01-30,Okay for the priec.
+24.0,alice walker,Wireless Mouse,electronics,5,2023-12-12,"Not what I expected, color is wrong."
+25.0,charlie brown,Webcam,electronics,3,2023-08-03,Great product works well.
+26.0,John Doe,Wireless Mouse,Electronics,100,2023-08-23,"Fast shpping, highly recommended."
+27.0,Jane Smith,Mechanical Keyboard,electronics,2,2023-12-08,"Terrible, broke after one day."
+28.0,,Wireless Mouse,ELECTRONICS,,2023-09-17,"Not what I expected, color si wrong."
+29.0,Jane Smith,Wireless Mouse,,5,2023/13/01,Great product orks well.
+30.0,charlie brown,Webcam,ELECTRONICS,2,2023-01-15,Okay for the price.
+31.0,,Wireless Mouse,,2,2023-12-06,"Terrible, broke after one day."
+32.0,charlie brown,HDMI Cable,,5,2023-09-11,"Fast shipping, highly recommended."
+33.0,Jane Smith,Webcam,electronics,1,2023-10-13,Great product works well.
+34.0,,Mechanical Keyboard,ELECTRONICS,,2023-05-18,Okay for the price.
+35.0,Bob Wilson,Mechanical Keyboard,,1,15-10-2023,"Not what I expected, color is wrong."
+36.0,Jane Smith,Gaming Monitor,ELECTRONICS,100,2023-01-26,"Not what I expected, color is wrong."
+37.0,John Doe,HDMI Cable,Electronics,5,2023-09-10,"Fast shipping, highly recommended."
+38.0,Jane Smith,Mechanical Keyboard,ELECTRONICS,,2023-12-02,Great product works well.
+39.0,alice walker,Wireless Mouse,electronics,100,,"Terrible, broke after one day."
+40.0,,Wireless Mouse,,4,2023-07-05,Great product works well.
+41.0,alice walker,HDMI Cable,Electronics,3,2023-10-05,"Terrible, broke after one day."
+42.0,Bob Wilson,Gaming Monitor,Electronics,100,2023-02-26,Great roduct works well.
+43.0,,Gaming Monitor,,100,2023-04-11,"Fast shipping, highly recommended."
+44.0,alice walker,HDMI Cable,electronics,Five,,"Not what I expected, color is wrong."
+45.0,,HDMI Cable,ELECTRONICS,5,09-06-2023,"Terrible, broek after one day."
+46.0,Bob Wilson,Wireless Mouse,,5,2023-05-06,Great product works well.
+47.0,alice walker,Gaming Monitor,,3,2023-12-06,"Not what I expected, color is wrong."
+48.0,Bob Wilson,HDMI Cable,Electronics,100,2023-05-15,"Fast shipping, highl recommended."
+49.0,alice walker,Wireless Mouse,electronics,5,2023-05-03,"Not what I expected, color is wrong."
+50.0,Jane Smith,Mechanical Keyboard,,1,,Great product works well.
+51.0,John Doe,Mechanical Keyboard,electronics,3,,"Terrible, broke after one day."
+52.0,alice walker,Gaming Monitor,,Five,2023-03-31,Oaky for the price.
+53.0,Jane Smith,Webcam,ELECTRONICS,3,2023/13/01,"Not what I expected, color is wrong."
+54.0,Bob Wilson,Mechanical Keyboard,,5,2023-05-23,"Terrilbe, broke after one day."
+55.0,Bob Wilson,Webcam,Electronics,2,2023-07-14,Great product works well.
+56.0,,Mechanical Keyboard,electronics,2,2023-08-08,"Fast shipping, highly recommended."
+57.0,,HDMI Cable,electronics,3,2023-08-29,Okay for the price.
+58.0,alice walker,Mechanical Keyboard,electronics,,2023/13/01,Okay for the price.
+59.0,John Doe,HDMI Cable,,1,2023-09-09,"Terrible, broke after one day."
+60.0,,Webcam,Electronics,Five,,Okay for the price.
+61.0,alice walker,Wireless Mouse,ELECTRONICS,1,14-10-2023,Great product works well.
+62.0,alice walker,Gaming Monitor,Electronics,4,2023-11-02,"Terrible, broke after one day."
+63.0,Jane Smith,Webcam,ELECTRONICS,5,2023-11-14,"Not what I expected, color is wrong."
+64.0,Jane Smith,Mechanical Keyboard,ELECTRONICS,,2023/13/01,"Fast shipping, highl recommended."
+65.0,Jane Smith,Mechanical Keyboard,electronics,1,2023-01-24,"Not what I expected, colo ris wrong."
+66.0,,Gaming Monitor,Electronics,5,2023-05-27,"Fast shipping, highly  recommended."
+67.0,Jane Smith,HDMI Cable,ELECTRONICS,Five,2023/13/01,"Fast shipping, highly recommended."
+68.0,John Doe,Webcam,,Five,2023-01-07,"Not what I expeected, color is wrong."
+69.0,Bob Wilson,Gaming Monitor,Electronics,1,2023-01-22,Okay for the price.
+70.0,alice walker,Webcam,ELECTRONICS,100,2023-10-31,"Not what I expected, color is wrong."
+71.0,Jane Smith,Webcam,,3,2023-08-13,"Fast shipping, hhighly recommended."
+72.0,Jane Smith,Webcam,ELECTRONICS,3,04-01-2023,Great product works well.
+73.0,Bob Wilson,Gaming Monitor,Electronics,100,2023-10-06,"Fast shipping, highly recommended."
+74.0,Jane Smith,Gaming Monitor,electronics,1,2023-04-12,Okay for the price.
+75.0,Jane Smith,Webcam,ELECTRONICS,2,2023-09-23,"Terrible, broke after one day."
+76.0,,Webcam,Electronics,Five,,Okay for the price.
+77.0,Jane Smith,Gaming Monitor,ELECTRONICS,4,2023-02-05,"Fast shipping, highly reocmmended."
+78.0,alice walker,Gaming Monitor,ELECTRONICS,4,2023-01-22,Okay for the price.
+79.0,charlie brown,Webcam,,4,2023-01-25,"Fast shipping, highly recommended."
+80.0,alice walker,Webcam,electronics,3,2023-10-13,"Terrible, broke after one day."
+81.0,,HDMI Cable,ELECTRONICS,,,Great product works well.
+82.0,Bob Wilson,Wireless Mouse,Electronics,100,2023/13/01,"Fast shipping, highly recommended."
+83.0,,Wireless Mouse,electronics,100,2023-10-27,"Terrible, broke after one day."
+84.0,alice walker,Webcam,Electronics,Five,2023-07-14,"Not what I expected, color is wrong."
+85.0,John Doe,Webcam,,1,2023-08-18,Okay for the price.
+86.0,charlie brown,Webcam,Electronics,4,2023-10-10,"Terrible, broke after one day."
+87.0,John Doe,Gaming Monitor,,5,2023-07-14,"Not what I expected, color is wrong."
+88.0,alice walker,HDMI Cable,electronics,2,2023/13/01,"Fast shipping, highly recommended."
+89.0,,Gaming Monitor,Electronics,2,2023-08-19,"Terrible, broke aftero ne day."
+90.0,charlie brown,Wireless Mouse,Electronics,2,20-06-2023,Great product works well.
+91.0,Bob Wilson,Gaming Monitor,electronics,2,2023-04-28,"Fast shipping, highly recommended."
+92.0,Bob Wilson,Mechanical Keyboard,Electronics,,2023/13/01,Great product works well.
+93.0,alice walker,Wireless Mouse,ELECTRONICS,1,,Okkay for the price.
+94.0,John Doe,Gaming Monitor,ELECTRONICS,4,10-09-2023,"Fast shipping, highly recommended."
+95.0,Bob Wilson,Wireless Mouse,ELECTRONICS,1,,"Terrible, broke after one day."
+96.0,Jane Smith,HDMI Cable,,4,,"Terrible, broke after one day."
+97.0,Jane Smith,Gaming Monitor,electronics,5,2023-09-08,"Terrible, broke after one day."
+98.0,Jane Smith,Mechanical Keyboard,ELECTRONICS,2,2023-01-18,"Terrible, broke after one day."
+99.0,John Doe,Webcam,electronics,1,2023-07-05,Great product works well.
+100.0,alice walker,Mechanical Keyboard,,2,2023/13/01,"Not what I expected,, color is wrong."
