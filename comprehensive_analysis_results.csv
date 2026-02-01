@@ -1,115 +1,70 @@
-Review_ID,Review_Text_Clean,Rating_Clean,Sentiment_Category,compound,positive,negative,neutral,Sentiment_Intensity,TextBlob_Sentiment,Rating_Sentiment_Alignment,Review_Cluster,Text_Length,Word_Count
-1,Highly recommend! speaker exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,Strong,Positive,Aligned,1,62,7
-2,Poor quality control. Multiple defects including speaker distortion.,1,Negative,-0.7003,0.0,0.492,0.508,Very Strong,Negative,Aligned,0,68,8
-3,Excellent build quality. The display feature is outstanding!,4,Positive,0.8398,0.571,0.0,0.429,Very Strong,Positive,Aligned,1,60,8
-4,Overpriced garbage. speaker fails at basic file transfer.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,57,8
-5,Perfect for gaming. Works flawlessly and looks premium.,5,Positive,0.6705,0.478,0.0,0.522,Very Strong,Positive,Aligned,1,55,8
-7,Average performance. Some good features but also some issues.,3,Positive,0.2382,0.196,0.0,0.804,Moderate,Positive,Misaligned,1,61,9
-8,Excellent build quality. The camera feature is outstanding!,5,Positive,0.8398,0.571,0.0,0.429,Very Strong,Positive,Aligned,1,59,8
-9,"Best smartphone I've ever owned. Fast, reliable, and great value.",5,Positive,0.8934,0.605,0.0,0.395,Very Strong,Positive,Aligned,1,65,10
-10,Poor quality control. Multiple defects including screen bleeding.,2,Negative,-0.7003,0.0,0.492,0.508,Very Strong,Negative,Aligned,0,65,8
-11,Excellent build quality. The connectivity feature is outstanding!,5,Positive,0.8398,0.571,0.0,0.429,Very Strong,Positive,Aligned,1,65,8
-13,Completely disappointed. slow performance makes it unusable.,1,Negative,-0.5256,0.0,0.361,0.639,Strong,Negative,Aligned,0,60,7
-16,Amazing smartwatch! Battery lasts all day and performance is incredible.,5,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,72,10
-17,Amazing speaker! Battery lasts all day and performance is incredible.,5,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,69,10
-19,No review provided,4,Negative,-0.296,0.0,0.524,0.476,Moderate,Neutral,Misaligned,2,18,3
-20,Amazing tablet! Battery lasts all day and performance is incredible.,5,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,68,10
-21,It's fine I guess. Does what it's supposed to do.,3,Positive,0.2023,0.167,0.0,0.833,Moderate,Positive,Misaligned,0,49,10
-26,Highly recommend! tablet exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,Strong,Positive,Aligned,1,61,7
-27,"Best headphones I've ever owned. Fast, reliable, and great value.",1,Positive,0.8934,0.605,0.0,0.395,Very Strong,Positive,Misaligned,1,65,10
-28,Excellent build quality. The design feature is outstanding!,4,Positive,0.8398,0.571,0.0,0.429,Very Strong,Positive,Aligned,1,59,8
-33,Mixed feelings about this smartwatch. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,Weak,Neutral,Aligned,0,57,9
-37,Highly recommend! laptop exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,Strong,Positive,Aligned,1,61,7
-38,Completely disappointed. overheating makes it unusable.,2,Negative,-0.5256,0.0,0.404,0.596,Strong,Negative,Aligned,0,55,6
-40,Terrible smartwatch. Battery dies quickly and constantly crashes.,2,Negative,-0.4767,0.0,0.307,0.693,Strong,Negative,Aligned,0,65,8
-41,Excellent build quality. The audio feature is outstanding!,4,Positive,0.8398,0.571,0.0,0.429,Very Strong,Positive,Aligned,1,58,8
-42,Highly recommend! smartphone exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,Strong,Positive,Aligned,1,65,7
-43,Terrible headphones. Battery dies quickly and constantly crashes.,1,Negative,-0.4767,0.0,0.307,0.693,Strong,Negative,Aligned,0,65,8
-44,Decent headphones for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,Moderate,Positive,Misaligned,1,64,10
-49,Terrible smartphone. Battery dies quickly and constantly crashes.,2,Negative,-0.4767,0.0,0.307,0.693,Strong,Negative,Aligned,0,65,8
-51,Amazing smartphone! Battery lasts all day and performance is incredible.,4,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,72,10
-54,Highly recommend! smartwatch exceeded my expectations completely.,5,Positive,0.474,0.34,0.0,0.66,Strong,Positive,Aligned,1,65,7
-55,Terrible speaker. Battery dies quickly and constantly crashes.,1,Negative,-0.4767,0.0,0.307,0.693,Strong,Negative,Aligned,0,62,8
-57,"Best smartwatch I've ever owned. Fast, reliable, and great value.",5,Positive,0.8934,0.605,0.0,0.395,Very Strong,Positive,Aligned,1,65,10
-58,Amazing headphones! Battery lasts all day and performance is incredible.,4,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,72,10
-59,Perfect for travel. Works flawlessly and looks premium.,4,Positive,0.6705,0.478,0.0,0.522,Very Strong,Positive,Aligned,1,55,8
-60,Poor quality control. Multiple defects including button sticking.,2,Negative,-0.7003,0.0,0.492,0.508,Very Strong,Negative,Aligned,0,65,8
-61,Okay build quality. Not amazing but not terrible either.,3,Positive,0.4108,0.373,0.159,0.468,Strong,Positive,Misaligned,1,56,9
-63,Completely disappointed. poor battery life makes it unusable.,2,Negative,-0.7764,0.0,0.53,0.47,Very Strong,Negative,Aligned,0,61,8
-68,"Best tablet I've ever owned. Fast, reliable, and great value.",5,Positive,0.8934,0.605,0.0,0.395,Very Strong,Positive,Aligned,1,61,10
-70,Poor quality control. Multiple defects including charging port issues.,2,Negative,-0.7003,0.0,0.453,0.547,Very Strong,Negative,Aligned,0,70,9
-72,Decent tablet for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,Moderate,Positive,Misaligned,1,60,10
-73,Perfect for entertainment. Works flawlessly and looks premium.,4,Positive,0.8074,0.624,0.0,0.376,Very Strong,Positive,Aligned,1,62,8
-74,"Best laptop I've ever owned. Fast, reliable, and great value.",4,Positive,0.8934,0.605,0.0,0.395,Very Strong,Positive,Aligned,1,61,10
-76,Completely disappointed. connectivity problems makes it unusable.,2,Negative,-0.7474,0.0,0.56,0.44,Very Strong,Negative,Aligned,0,65,7
-78,Perfect for fitness. Works flawlessly and looks premium.,4,Positive,0.765,0.603,0.0,0.397,Very Strong,Positive,Aligned,1,56,8
-80,Overpriced garbage. headphones fails at basic gaming.,2,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,53,7
-81,Worst purchase ever! headphones broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,58,9
-87,Overpriced garbage. smartphone fails at basic video calls.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,58,8
-92,Overpriced garbage. headphones fails at basic multitasking.,1,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,59,7
-93,Amazing laptop! Battery lasts all day and performance is incredible.,5,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,68,10
-100,Highly recommend! headphones exceeded my expectations completely.,5,Positive,0.474,0.34,0.0,0.66,Strong,Positive,Aligned,1,65,7
-104,"Best speaker I've ever owned. Fast, reliable, and great value.",4,Positive,0.8934,0.605,0.0,0.395,Very Strong,Positive,Aligned,1,62,10
-114,Perfect for work. Works flawlessly and looks premium.,4,Positive,0.6705,0.478,0.0,0.522,Very Strong,Positive,Aligned,1,53,8
-121,Terrible tablet. Battery dies quickly and constantly crashes.,2,Negative,-0.4767,0.0,0.307,0.693,Strong,Negative,Aligned,0,61,8
-124,Worst purchase ever! smartphone broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,57,9
-137,Mixed feelings about this headphones. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,Weak,Neutral,Aligned,0,57,9
-144,Worst purchase ever! smartwatch broke after just a month.,1,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,57,9
-147,Worst purchase ever! smartphone broke after just two days.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,58,9
-148,Mixed feelings about this laptop. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,Weak,Neutral,Aligned,0,53,9
-155,Worst purchase ever! tablet broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,53,9
-162,Worst purchase ever! headphones broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,57,9
-168,Overpriced garbage. tablet fails at basic file transfer.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,56,8
-178,Worst purchase ever! speaker broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,55,9
-184,Decent smartphone for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,Moderate,Positive,Misaligned,1,64,10
-191,Worst purchase ever! smartphone broke after just one week.,3,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Misaligned,0,58,9
-215,Mixed feelings about this tablet. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,Weak,Neutral,Aligned,0,53,9
-216,Terrible laptop. Battery dies quickly and constantly crashes.,2,Negative,-0.4767,0.0,0.307,0.693,Strong,Negative,Aligned,0,61,8
-220,Amazing smartwatch! Batttery lasts all day and performance is incredible.,4,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,73,10
-244,Decent laptop for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,Moderate,Positive,Misaligned,1,60,10
-287,Decent speaker for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,Moderate,Positive,Misaligned,1,61,10
-290,Overpriced garbage. laptop fails at basic gaming.,1,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,49,7
-297,Decent smartwatch for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,Moderate,Positive,Misaligned,1,64,10
-298,Overpriced garbage. smartwatch fails at basic gaming.,1,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,53,7
-305,Overpriced garbage. headphones fails at basic file transfer.,1,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,60,8
-311,Overpriced garbage. smartwatch fails at basic video calls.,1,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,58,8
-312,Mixed feelings about this speaker. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,Weak,Neutral,Aligned,0,54,9
-321,Amazing tablet! Batttery lasts all day and performance is incredible.,5,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,69,10
-330,Overpriced garbage. tablet fails at basic multitasking.,1,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,55,7
-335,Worst purchase ever! headphones broke after just two days.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,58,9
-343,Worst purchase ever! speaker broke after just three weeks.,1,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,58,9
-359,Mixed feelings about this smartphone. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,Weak,Neutral,Aligned,0,57,9
-393,Worst purchase ever! smartwatch broke after just three weeks.,1,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,61,9
-394,It's fine I guesss. Does what it's supposed to do.,3,Positive,0.2023,0.167,0.0,0.833,Moderate,Positive,Misaligned,0,50,10
-403,Worst purchase ever! laptop broke after just two days.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,54,9
-415,Okay build quality. Not amazing but not terrrible either.,3,Negative,-0.1496,0.138,0.194,0.668,Moderate,Neutral,Misaligned,0,57,9
-427,Worst purchase ever! speaker broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,54,9
-445,Worst purchase ever! tablet broke after just three weeks.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,57,9
-460,Worst purchase ever! smartphone broke after just three weeks.,1,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,61,9
-471,Overpriced garbage. tablet fails at basic gaming.,1,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,49,7
-507,Amazing headphones! Batttery lasts all day and performance is incredible.,5,Positive,0.6239,0.313,0.0,0.687,Very Strong,Positive,Aligned,1,73,10
-508,Worst purchase ever! headphones broke after just three weeks.,1,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,61,9
-509,Overpriced garbage. smartphone fails at basic gaming.,2,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,53,7
-519,Overpriced garbage. tablet fails at basic video calls.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,54,8
-559,Overpriced garbage. laptop fails at basic multitasking.,2,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,55,7
-568,Overpriced garbage. smartwatch fails at basic file transfer.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,60,8
-569,Worst purchase ever! smartwatch broke after just two days.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,58,9
-575,Completely disapppointed. connectivity problems makes it unusable.,2,Negative,-0.4522,0.0,0.331,0.669,Strong,Neutral,Aligned,0,66,7
-624,Worst purchase ever! laptop broke after just three weeks.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,57,9
-664,Overpriced garbage. laptop fails at basic file transfer.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,56,8
-694,Overpriced garbage. speaker fails at basic video calls.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,55,8
-700,Excelllent build quality. The audio feature is outstanding!,5,Positive,0.6476,0.38,0.0,0.62,Very Strong,Positive,Aligned,1,59,8
-720,Overpriced garbage. smartwatch fails at basic multitasking.,1,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,59,7
-755,Worst purchase ever! tablet broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,54,9
-772,Overpriced garbage. headphones fails at basic video calls.,1,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,58,8
-780,Overpriced garbage. speaker fails at basic multitasking.,2,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,56,7
-782,Worst purchase ever! tablet broke after just threee weeks.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,58,9
-832,Excelllent build quality. The camera feature is outstanding!,4,Positive,0.6476,0.38,0.0,0.62,Very Strong,Positive,Aligned,1,60,8
-833,Overpriced garbage. laptop fails at basic video calls.,2,Negative,-0.4215,0.0,0.286,0.714,Strong,Negative,Aligned,0,54,8
-838,Pooor quality control. Multiple defects including screen bleeding.,2,Negative,-0.4019,0.0,0.278,0.722,Strong,Neutral,Aligned,0,66,8
-863,Overpriced garbage. smartphone fails at basic multitasking.,1,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,59,7
-906,Excelllent build quality. The connectivity feature is outstanding!,4,Positive,0.6476,0.38,0.0,0.62,Very Strong,Positive,Aligned,1,66,8
-922,Overpriced garbage. speaker fails at basic gaming.,2,Negative,-0.4215,0.0,0.318,0.682,Strong,Negative,Aligned,0,50,7
-978,Worst purchase ever! laptop broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,54,9
-988,Pooor quality control. Multiple defects including charging port issues.,2,Negative,-0.4019,0.0,0.252,0.748,Strong,Neutral,Aligned,0,71,9
-999,Worst purchase ever! smartwatch broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,Very Strong,Negative,Aligned,0,58,9
+Review_ID,Review_Text_Clean,Rating_Clean,Sentiment_Category,compound,positive,negative,neutral,Text_Length,Word_Count
+1,Excellent build quality. The display feature is outstanding!,5,Positive,0.8398,0.571,0.0,0.429,60,8
+4,Poor quality control. Multiple defects including button sticking.,2,Negative,-0.7003,0.0,0.492,0.508,65,8
+5,Decent tablet for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,60,10
+6,Amazing headphones! Battery lasts all day and performance is incredible.,4,Positive,0.6239,0.313,0.0,0.687,72,10
+7,Excellent build quality. The audio feature is outstanding!,5,Positive,0.8398,0.571,0.0,0.429,58,8
+8,Highly recommend! laptop exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,61,7
+10,Amazing tablet! Battery lasts all day and performance is incredible.,5,Positive,0.6239,0.313,0.0,0.687,68,10
+11,Average performance. Some good features but also some issues.,3,Positive,0.2382,0.196,0.0,0.804,61,9
+12,No review provided,2,Negative,-0.296,0.0,0.524,0.476,18,3
+16,Mixed feelings about this headphones. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,57,9
+17,Excellent build quality. The connectivity feature is outstanding!,5,Positive,0.8398,0.571,0.0,0.429,65,8
+19,"Best smartwatch I've ever owned. Fast, reliable, and great value.",5,Positive,0.8934,0.605,0.0,0.395,65,10
+21,Terrible headphones. Battery dies quickly and constantly crashes.,2,Negative,-0.4767,0.0,0.307,0.693,65,8
+24,Amazing laptop! Battery lasts all day and performance is incredible.,4,Positive,0.6239,0.313,0.0,0.687,68,10
+30,Decent headphones for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,64,10
+33,Highly recommend! smartphone exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,65,7
+36,Mixed feelings about this laptop. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,53,9
+39,"Best laptop I've ever owned. Fast, reliable, and great value.",4,Positive,0.8934,0.605,0.0,0.395,61,10
+43,"Best smartphone I've ever owned. Fast, reliable, and great value.",4,Positive,0.8934,0.605,0.0,0.395,65,10
+44,Amazing smartwatch! Battery lasts all day and performance is incredible.,4,Positive,0.6239,0.313,0.0,0.687,72,10
+45,Poor quality control. Multiple defects including screen bleeding.,1,Negative,-0.7003,0.0,0.492,0.508,65,8
+46,Amazing smartphone! Battery lasts all day and performance is incredible.,4,Positive,0.6239,0.313,0.0,0.687,72,10
+47,Highly recommend! smartwatch exceeded my expectations completely.,5,Positive,0.474,0.34,0.0,0.66,65,7
+48,Decent laptop for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,60,10
+52,Mixed feelings about this smartphone. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,57,9
+53,Excellent build quality. The camera feature is outstanding!,4,Positive,0.8398,0.571,0.0,0.429,59,8
+54,Overpriced garbage. smartwatch fails at basic multitasking.,2,Negative,-0.4215,0.0,0.318,0.682,59,7
+55,Highly recommend! tablet exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,61,7
+61,Mixed feelings about this tablet. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,53,9
+76,Worst purchase ever! headphones broke after just a month.,1,Negative,-0.8016,0.0,0.507,0.493,57,9
+77,Highly recommend! headphones exceeded my expectations completely.,4,Positive,0.474,0.34,0.0,0.66,65,7
+84,Decent smartwatch for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,64,10
+91,Worst purchase ever! tablet broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,53,9
+93,Decent smartphone for the price. Nothing special but works okay.,3,Positive,0.183,0.196,0.136,0.668,64,10
+94,Overpriced garbage. tablet fails at basic gaming.,2,Negative,-0.4215,0.0,0.318,0.682,49,7
+109,"Best tablet I've ever owned. Fast, reliable, and great value.",4,Positive,0.8934,0.605,0.0,0.395,61,10
+119,Worst purchase ever! headphones broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,58,9
+125,"Best headphones I've ever owned. Fast, reliable, and great value.",4,Positive,0.8934,0.605,0.0,0.395,65,10
+128,Terrible smartphone. Battery dies quickly and constantly crashes.,2,Negative,-0.4767,0.0,0.307,0.693,65,8
+159,Terrible laptop. Battery dies quickly and constantly crashes.,1,Negative,-0.4767,0.0,0.307,0.693,61,8
+161,Excellent build quality. The design feature is outstanding!,4,Positive,0.8398,0.571,0.0,0.429,59,8
+174,Worst purchase ever! smartwatch broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,58,9
+176,Worst purchase ever! smartwatch broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,57,9
+181,Terrible tablet. Battery dies quickly and constantly crashes.,1,Negative,-0.4767,0.0,0.307,0.693,61,8
+188,Worst purchase ever! smartphone broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,57,9
+189,Overpriced garbage. smartwatch fails at basic gaming.,1,Negative,-0.4215,0.0,0.318,0.682,53,7
+193,Poor quality control. Multiple defects including charging issues.,2,Negative,-0.7003,0.0,0.492,0.508,65,8
+202,Terrible smartwatch. Battery dies quickly and constantly crashes.,2,Negative,-0.4767,0.0,0.307,0.693,65,8
+219,Overpriced garbage. headphones fails at basic gaming.,1,Negative,-0.4215,0.0,0.318,0.682,53,7
+236,Worst purchase ever! smartphone broke after just one week.,2,Negative,-0.8016,0.0,0.507,0.493,58,9
+239,Worst purchase ever! headphones broke after just two days.,1,Negative,-0.8016,0.0,0.507,0.493,58,9
+265,Overpriced garbage. laptop fails at basic gaming.,2,Negative,-0.4215,0.0,0.318,0.682,49,7
+272,Worst purchase ever! smartwatch broke after just two days.,1,Negative,-0.8016,0.0,0.507,0.493,58,9
+279,Worst purchase ever! tablet broke after just one week.,1,Negative,-0.8016,0.0,0.507,0.493,54,9
+297,Overpriced garbage. smartphone fails at basic gaming.,2,Negative,-0.4215,0.0,0.318,0.682,53,7
+309,Overpriced garbage. headphones fails at basic multitasking.,2,Negative,-0.4215,0.0,0.318,0.682,59,7
+328,Mixed feelings about this smartwatch. Some pros and cons.,3,Neutral,0.0,0.0,0.0,1.0,57,9
+348,Worst purchase ever! tablet broke after just two days.,2,Negative,-0.8016,0.0,0.507,0.493,54,9
+364,Overpriced garbage. tablet fails at basic multitasking.,1,Negative,-0.4215,0.0,0.318,0.682,55,7
+378,Worst purchase ever! smartphone broke after just two days.,1,Negative,-0.8016,0.0,0.507,0.493,58,9
+388,Overpriced garbage. smartwatch fails at basic video calls.,2,Negative,-0.4215,0.0,0.286,0.714,58,8
+428,Overpriced garbage. headphones fails at basic video calls.,1,Negative,-0.4215,0.0,0.286,0.714,58,8
+474,Worst purchase ever! laptop broke after just two days.,2,Negative,-0.8016,0.0,0.507,0.493,54,9
+529,Overpriced garbage. smartphone fails at basic video calls.,1,Negative,-0.4215,0.0,0.286,0.714,58,8
+550,Worst purchase ever! laptop broke after just a month.,2,Negative,-0.8016,0.0,0.507,0.493,53,9
+583,Overpriced garbage. laptop fails at basic multitasking.,2,Negative,-0.4215,0.0,0.318,0.682,55,7
+628,Overpriced garbage. laptop fails at basic video calls.,1,Negative,-0.4215,0.0,0.286,0.714,54,8
+666,Overpriced garbage. smartphone fails at basic multitasking.,1,Negative,-0.4215,0.0,0.318,0.682,59,7
+756,Worst purchase ever! laptop broke after just one week.,1,Negative,-0.8016,0.0,0.507,0.493,54,9
